@@ -7,7 +7,7 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 15 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Aug 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,13 +15,22 @@
     <item>
       <title></title>
       <link>/authors/adan/</link>
-      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>/authors/adan/</guid>
       <description>&lt;p&gt;I am a &lt;a href=&#34;https://pro.univ-lille.fr/adan-jose-garcia/&#34;&gt;Research Fellow in Digital Health&lt;/a&gt; at the Department of Computer Science, &lt;a href=&#34;https://www.cristal.univ-lille.fr/&#34;&gt;CRIStAL Lab&lt;/a&gt;, University of Lille, France. This is a collaborative project with the &lt;a href=&#34;https://www.chu-lille.fr/&#34;&gt;Lille University Hospital&lt;/a&gt; and &lt;a href=&#34;https://include-project.chru-lille.fr/home-project/&#34;&gt;INCLUDE&lt;/a&gt;. My current project involves developing and applying unsupervised machine learning techniques to classify patients with systemic autoimmune diseases.&lt;/p&gt;
 &lt;p&gt;Before joining the University of Lille, I was a &lt;a href=&#34;http://emps.exeter.ac.uk/computer-science/staff/aj504&#34;&gt;Research Fellow in Machine Learning&lt;/a&gt; at the Department of Computer Science, Institute of Data Science and Artificial Intelligence, University of Exeter, United Kingdom (UK). Before this, I was a Postdoctoral Researcher with the &lt;a href=&#34;https://www.alliancembs.manchester.ac.uk/research/decision-science/&#34;&gt;Decision and Cognitive Sciences Research Centre&lt;/a&gt;, University of Manchester, UK. I hold M.Sc. and Ph.D. degrees in Computer Science from the Center for Research and Advanced Studies of the National Polytechnic Institute, &lt;a href=&#34;https://www.cinvestav.mx/&#34;&gt;Cinvestav-IPN&lt;/a&gt;, Mexico.&lt;/p&gt;
 &lt;p&gt;In general, my scientific expertise is focused on investigating cluster analysis methods, also known as unsupervised machine learning, in the area of Artificial Intelligence. My research consists in creating and adapting clustering approaches (e.g., multi-view clustering, biclustering) and their applications to different research fields such as digital healthcare, labour market and network analysis. In these scenarios, the clustering problem is modelled as a numerical or combinatorial optimisation problem, where I have mainly focused on using nature-based metaheuristics (e.g. evolutionary algorithms). In addition, I have studied the problem of automatically determining the number of clusters inherent in the input data and the statistical validation of the resulting clusters. My research currently focuses on developing integrative cluster analysis approaches to address healthcare-related data problems and help to understand better disease complications and treatment goals.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Julia HANDL</title>
+      <link>/authors/julia-handl/</link>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/julia-handl/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -63,15 +72,6 @@
     </item>
     
     <item>
-      <title>Julia HANDL</title>
-      <link>/authors/julia-handl/</link>
-      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/julia-handl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Julie JACQUES</title>
       <link>/authors/julie-jacques/</link>
       <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
@@ -82,29 +82,8 @@
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;ENDOtyper les Maladies Inflammatoires Chroniques&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Robert Ford</title>
-      <link>/authors/robert-ford/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/robert-ford/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>/authors/aurelien/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>/authors/aurelien/</guid>
       <description>&lt;h1 id=&#34;heading&#34;&gt;&amp;hellip;&lt;/h1&gt;
@@ -114,8 +93,19 @@
     
     <item>
       <title></title>
+      <link>/authors/solange/</link>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/solange/</guid>
+      <description>&lt;h1 id=&#34;heading&#34;&gt;&amp;hellip;&lt;/h1&gt;
+&lt;p&gt;Description goes here&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/authors/louisa/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>/authors/louisa/</guid>
       <description>&lt;h1 id=&#34;heading&#34;&gt;&amp;hellip;&lt;/h1&gt;
@@ -124,13 +114,32 @@
     </item>
     
     <item>
-      <title></title>
-      <link>/authors/solange/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Sylvain DUBUCQUOI</title>
+      <link>/authors/sylvain-dubucquoi/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>/authors/solange/</guid>
-      <description>&lt;h1 id=&#34;heading&#34;&gt;&amp;hellip;&lt;/h1&gt;
-&lt;p&gt;Description goes here&lt;/p&gt;
+      <guid>/authors/sylvain-dubucquoi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vincent KOETHER</title>
+      <link>/authors/vincent-koether/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/vincent-koether/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;ENDOtyper les Maladies Inflammatoires Chroniques&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     

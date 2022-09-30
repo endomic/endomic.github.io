@@ -7,15 +7,24 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 15 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Sep 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Clustering</title>
+      <title>SSc</title>
+      <link>/tags/ssc/</link>
+      <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ssc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>clustering</title>
       <link>/tags/clustering/</link>
-      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>/tags/clustering/</guid>
       <description></description>
@@ -49,20 +58,56 @@
     </item>
     
     <item>
-      <title>Source Themes</title>
-      <link>/tags/source-themes/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <title>multi-omics</title>
+      <link>/tags/multi-omics/</link>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/source-themes/</guid>
+      <guid>/tags/multi-omics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ANA</title>
+      <link>/tags/ana/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ana/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning</title>
       <link>/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>omics</title>
+      <link>/tags/omics/</link>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/omics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>proteomics</title>
+      <link>/tags/proteomics/</link>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/proteomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>biclustering</title>
+      <link>/tags/biclustering/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/biclustering/</guid>
       <description></description>
     </item>
     
@@ -72,15 +117,6 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/tags/demo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>human</title>
-      <link>/tags/human/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/human/</guid>
       <description></description>
     </item>
     

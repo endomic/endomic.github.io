@@ -73,8 +73,63 @@
   </url>
   
   <url>
+    <loc>/project/</loc>
+    <lastmod>2022-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ssc/</loc>
+    <lastmod>2022-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/sistemic-sclerosis/</loc>
+    <lastmod>2022-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2022-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/adan/</loc>
-    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/clustering/</loc>
+    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/julia-handl/</loc>
+    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/article_naco2022/</loc>
+    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -93,17 +148,7 @@
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/clarisse-dhaenens/</loc>
-    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/clustering/</loc>
     <lastmod>2022-08-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -114,11 +159,6 @@
   
   <url>
     <loc>/tags/dissimilarity-measures/</loc>
-    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/julia-handl/</loc>
     <lastmod>2022-08-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -143,18 +183,83 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
+    <loc>/authors/aurelien/</loc>
+    <lastmod>2022-06-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/</loc>
-    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
+    <loc>/authors/solange/</loc>
+    <lastmod>2022-06-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2022-08-15T00:00:00+00:00</lastmod>
+    <loc>/publication/article_-fimmu2022904631/</loc>
+    <lastmod>2022-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/multi-omics/</loc>
+    <lastmod>2022-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/louisa/</loc>
+    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ana/</loc>
+    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/article_-fimmu2022930970/</loc>
+    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sylvain-dubucquoi/</loc>
+    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/vincent-koether/</loc>
+    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/deep-learning/</loc>
+    <lastmod>2022-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/omics/</loc>
+    <lastmod>2022-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/omics/</loc>
+    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/article_pmic.202100116/</loc>
+    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/proteomics/</loc>
+    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/biclustering/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/biclustering/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -165,21 +270,6 @@
   <url>
     <loc>/authors/admin/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -203,47 +293,12 @@
   </url>
   
   <url>
-    <loc>/project/artificial-intelligence/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/human/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/robotics/</loc>
+    <loc>/project/machine-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -253,7 +308,7 @@
   </url>
   
   <url>
-    <loc>/project/skin-cancer-ai/</loc>
+    <loc>/project/unsupervised-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -273,35 +328,7 @@
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/aurelien/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/louisa/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/solange/</loc>
+    <loc>/mypublications/</loc>
   </url>
   
   <url>
