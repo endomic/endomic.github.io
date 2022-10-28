@@ -7,17 +7,17 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 22 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/adan/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>What’s in a distance? Exploring the interplay between distance measures and internal cluster validity in multi-objective clustering</title>
-      <link>/publication/article_naco2022/</link>
-      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      <title>Multi-view clustering of heterogeneous health data: Application to systemic sclerosis</title>
+      <link>/publication/inproceedings-2022-jose_garcia-978-3-031-14721-0_25/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>/publication/article_naco2022/</guid>
+      <guid>/publication/inproceedings-2022-jose_garcia-978-3-031-14721-0_25/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;blockquote&gt;
@@ -26,11 +26,141 @@
     </item>
     
     <item>
-      <title>Multi-view clustering of heterogeneous health data: Application to systemic sclerosis</title>
-      <link>/publication/paper_ppsn2022/</link>
-      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      <title>What’s in a distance? Exploring the interplay between distance measures and internal cluster validity in multi-objective clustering</title>
+      <link>/publication/article-2022-jose_garcia-s11047-022-09909-y/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>/publication/paper_ppsn2022/</guid>
+      <guid>/publication/article-2022-jose_garcia-s11047-022-09909-y/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On the interaction between distance functions and clustering criteria in multi-objective clustering</title>
+      <link>/publication/inproceedings-2021-jose_garcia-978-3-030-72062-9_40/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/inproceedings-2021-jose_garcia-978-3-030-72062-9_40/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>{A survey of cluster validity indices for automatic data clustering using differential evolution}</title>
+      <link>/publication/inproceedings-2021-jose_garcia-3449639.3459341/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/inproceedings-2021-jose_garcia-3449639.3459341/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>{An evolutionary many-objective approach to multiview clustering using feature and relational data}</title>
+      <link>/publication/article-2021-jose_garcia-j.asoc.2021.107425/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/article-2021-jose_garcia-j.asoc.2021.107425/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Detection of fiber defects using keypoints and deep learning</title>
+      <link>/publication/article-2020-siegmund-s0218001421500166/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/article-2020-siegmund-s0218001421500166/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automatic clustering algorithms: A systematic review and bibliometric analysis of relevant literature</title>
+      <link>/publication/article-2020-ezugwu-s00521-020-05395-4/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/article-2020-ezugwu-s00521-020-05395-4/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>{Many-view clustering: An illustration using multiple dissimilarity measures}</title>
+      <link>/publication/inproceedings-2019-jose_garcia-3319619.3323365/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/inproceedings-2019-jose_garcia-3319619.3323365/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>{Evolutionary clustering using multi-prototype representation and Connectivity Criterion}</title>
+      <link>/publication/inproceedings-2017-jose_garcia-978-3-319-59226-8_7/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/inproceedings-2017-jose_garcia-978-3-319-59226-8_7/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>{Automatic clustering using nature-inspired metaheuristics: A survey}</title>
+      <link>/publication/article-2016-jose_garcia-j.asoc.2015.12.001/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/article-2016-jose_garcia-j.asoc.2015.12.001/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rule-based approach for topic maps learning from relational databases</title>
+      <link>/publication/article-2015-jose_garcia-exsy.12113/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/article-2015-jose_garcia-exsy.12113/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Building topic maps from relational databases</title>
+      <link>/publication/inproceedings-2012-jose_garcia-iceee.2012.6421192/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/inproceedings-2012-jose_garcia-iceee.2012.6421192/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;blockquote&gt;
