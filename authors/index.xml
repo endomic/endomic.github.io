@@ -20,7 +20,7 @@
       <guid>/authors/adan/</guid>
       <description>&lt;p&gt;I am a &lt;a href=&#34;https://pro.univ-lille.fr/adan-jose-garcia/&#34;&gt;Research Fellow in Digital Health&lt;/a&gt; at the Department of Computer Science, &lt;a href=&#34;https://www.cristal.univ-lille.fr/&#34;&gt;CRIStAL Lab&lt;/a&gt;, University of Lille, France. This is a collaborative project with the &lt;a href=&#34;https://www.chu-lille.fr/&#34;&gt;Lille University Hospital&lt;/a&gt; and &lt;a href=&#34;https://include-project.chru-lille.fr/home-project/&#34;&gt;INCLUDE&lt;/a&gt;. My current project involves developing and applying unsupervised machine learning techniques to classify patients with systemic autoimmune diseases.&lt;/p&gt;
 &lt;p&gt;Before joining the University of Lille, I was a &lt;a href=&#34;http://emps.exeter.ac.uk/computer-science/staff/aj504&#34;&gt;Research Fellow in Machine Learning&lt;/a&gt; at the Department of Computer Science, Institute of Data Science and Artificial Intelligence, University of Exeter, United Kingdom (UK). Before this, I was a Postdoctoral Researcher with the &lt;a href=&#34;https://www.alliancembs.manchester.ac.uk/research/decision-science/&#34;&gt;Decision and Cognitive Sciences Research Centre&lt;/a&gt;, University of Manchester, UK. I hold M.Sc. and Ph.D. degrees in Computer Science from the Center for Research and Advanced Studies of the National Polytechnic Institute, &lt;a href=&#34;https://www.cinvestav.mx/&#34;&gt;Cinvestav-IPN&lt;/a&gt;, Mexico.&lt;/p&gt;
-&lt;p&gt;In general, my scientific expertise is focused on investigating cluster analysis methods, also known as unsupervised machine learning, in the area of Artificial Intelligence. My research consists in creating and adapting clustering approaches (e.g., multi-view clustering, biclustering) and their applications to different research fields such as digital healthcare, labour market and network analysis. In these scenarios, the clustering problem is modelled as a numerical or combinatorial optimisation problem, where I have mainly focused on using nature-based metaheuristics (e.g. evolutionary algorithms). In addition, I have studied the problem of automatically determining the number of clusters inherent in the input data and the statistical validation of the resulting clusters. My research currently focuses on developing integrative cluster analysis approaches to address healthcare-related data problems and help to understand better disease complications and treatment goals.&lt;/p&gt;
+&lt;p&gt;My research consists in creating clustering approaches (e.g., multi-view clustering, biclustering) and their applications to different research fields such as digital healthcare, labour market and network analysis. My research currently focuses on developing integrative cluster analysis approaches to address healthcare-related data problems and help to understand better disease complications and treatment goals.&lt;/p&gt;
 </description>
     </item>
     
@@ -98,10 +98,11 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;ENDOtyper les Maladies Inflammatoires Chroniques&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Chronic inflammatory diseases&lt;/strong&gt; (CID) mainly affect young people with a significant impact on quality of life, family and socio-professional life. They also have a significant impact on healthcare budgets due to the increasing costs of their care.  CID is characterized by a significant variability in clinical presentation, biological profiles and evolution; this clinical heterogeneity complicates the management of patients and could explain the failure of therapeutic trials. It appears necessary to better define the clinical phenotypes in order to better understand the physiopathological mechanisms and to better target the evaluation of new therapies. This is in line with the concept of &amp;ldquo;&lt;strong&gt;endotype&lt;/strong&gt;&amp;rdquo; which can be considered as a subtype of disease defined functionally and pathologically by a molecular mechanism or a particular response to a treatment.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://endomic.github.io/&#34;&gt;&lt;strong&gt;ENDOMIC&lt;/strong&gt;&lt;/a&gt; (ENDOtyper les Maladies Inflammatoires Chroniques) specializes in precision medicine approaches using health data and artificial intelligence, which is part of the dynamics of our academic site (France 2030 Excellence Initiative including the University of Lille, the &lt;a href=&#34;https://www.chu-lille.fr/&#34;&gt;Lille University Hospital&lt;/a&gt;, &lt;a href=&#34;https://www.inserm.fr/&#34;&gt;INSERM&lt;/a&gt; and &lt;a href=&#34;https://www.inria.fr/en&#34;&gt;INRIA&lt;/a&gt;).&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 </description>
@@ -114,7 +115,7 @@
       
       <guid>/authors/clement/</guid>
       <description>&lt;h1 id=&#34;heading&#34;&gt;&amp;hellip;&lt;/h1&gt;
-&lt;p&gt;Student at Paris Dauphine University and apprentice engineer at Engie Crigen. Passionated about various subjects including mathematics, chess, computer science and innovation in data science.&lt;/p&gt;
+&lt;p&gt;Info goes here &amp;hellip;&lt;/p&gt;
 </description>
     </item>
     

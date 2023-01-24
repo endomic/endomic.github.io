@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Omics on ENDOMIC Team</title>
+    <link>/tags/omics/</link>
+    <description>Recent content in Omics on ENDOMIC Team</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Wed, 27 Apr 2022 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/omics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Omics</title>
+      <link>/project/omics/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/project/omics/</guid>
+      <description>&lt;p&gt;We exploit biological samples from the FHU PRECISE clinical-biological cohort comprising 500 scleroderma patients. Using a proteomic approach, we showed that the standardization of culture conditions and fibroblast stimulation was fundamental for the exploitation of the results.&lt;/p&gt;
+&lt;p&gt;Using an integrative multi-omics analysis, we suggested that anti-nuclear antibodies could be a relevant tool for endotype definition. We recently explored the pathogenic effects of purified total IgG from SSc patients on crucial effector cells of fibrosis: fibroblasts (FB). Our results showed that purified IgG from SSc patients altered the phenotype of normal dermal FBs and their secreted material in a serotype-dependent manner.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
