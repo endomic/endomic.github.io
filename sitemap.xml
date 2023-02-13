@@ -73,6 +73,31 @@
   </url>
   
   <url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2022-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2022-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/imaging/</loc>
+    <lastmod>2022-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/machinelearning/</loc>
+    <lastmod>2022-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/omics/</loc>
+    <lastmod>2022-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/</loc>
     <lastmod>2022-09-27T00:00:00+00:00</lastmod>
   </url>
@@ -83,7 +108,7 @@
   </url>
   
   <url>
-    <loc>/project/sistemic-sclerosis/</loc>
+    <loc>/project/systemic-sclerosis/</loc>
     <lastmod>2022-09-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -104,11 +129,6 @@
   
   <url>
     <loc>/publication_types/1/</loc>
-    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -188,11 +208,6 @@
   </url>
   
   <url>
-    <loc>/tags/omics/</loc>
-    <lastmod>2022-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/project/omics/</loc>
     <lastmod>2022-04-27T00:00:00+00:00</lastmod>
   </url>
@@ -200,6 +215,16 @@
   <url>
     <loc>/publication/article-2022-decker-j.ejim.2021.12.021/</loc>
     <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/clustering/</loc>
+    <lastmod>2022-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/machine-learning/</loc>
+    <lastmod>2022-02-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -260,16 +285,6 @@
   <url>
     <loc>/publication/article-2021-launay-13993003.00205-2021/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/biclustering/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/biclustering/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -533,31 +548,6 @@
   </url>
   
   <url>
-    <loc>/tags/clustering/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/machine-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/robotics/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/unsupervised-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/article-2016-sobanski-art.39432/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -665,10 +655,6 @@
   <url>
     <loc>/publication/inproceedings-2012-jose_garcia-iceee.2012.6421192/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/admin/</loc>
   </url>
   
   <url>

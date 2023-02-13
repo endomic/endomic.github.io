@@ -7,18 +7,29 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/clustering/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Unsupervised Learning</title>
-      <link>/project/unsupervised-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Supervised &amp; Unsupervised Machine Learning</title>
+      <link>/project/machine-learning/</link>
+      <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/project/unsupervised-learning/</guid>
-      <description></description>
+      <guid>/project/machine-learning/</guid>
+      <description>&lt;h2 id=&#34;machine-learning&#34;&gt;Machine Learning&lt;/h2&gt;
+&lt;p&gt;Machine learning teaches computers to do what comes naturally to humans and animals: learn from experience. Machine learning algorithms use computational methods to “learn” information directly from data without relying on a predetermined equation as a model. The algorithms adaptively improve their performance as the number of samples available for learning increases.&lt;/p&gt;
+&lt;p&gt;Machine learning algorithms find natural patterns in data that generate insight and help you make better decisions and predictions. They are used every day to make critical decisions in medical diagnosis, stock trading, forecasting, and more.&lt;/p&gt;
+&lt;p&gt;Machine learning uses two types of techniques: &lt;strong&gt;supervised learning&lt;/strong&gt;, which trains a model on known input and output data so that it can predict future outputs, and &lt;strong&gt;unsupervised learning&lt;/strong&gt;, which finds hidden patterns or intrinsic structures in input data.&lt;/p&gt;
+&lt;img src=&#34;Picture1.png&#34; width=&#34;570&#34;&gt;
+&lt;h2 id=&#34;unsupervised-machine-learning&#34;&gt;Unsupervised Machine Learning&lt;/h2&gt;
+&lt;p&gt;Unsupervised learning finds hidden patterns or intrinsic structures in data. It is used to draw inferences from datasets consisting of input data without labeled responses. Clustering is the most common unsupervised learning technique. It is used for exploratory data analysis to find hidden patterns or groupings in data.&lt;/p&gt;
+&lt;p&gt;In cluster analysis, data is partitioned into groups based on some measure of similarity or shared characteristic. Clusters are formed so that objects in the same cluster are very similar and objects in different clusters are very distinct.&lt;/p&gt;
+&lt;p&gt;There are several clustering algorithms that serve for different purposes:&lt;/p&gt;
+&lt;img src=&#34;Picture2.png&#34; width=&#34;900&#34;&gt;
+&lt;p&gt;Applications for clustering include gene sequence analysis, market research, object recognition, and more. Some examples are:&lt;/p&gt;
+&lt;img src=&#34;Picture3.png&#34; width=&#34;900&#34;&gt;</description>
     </item>
     
   </channel>
