@@ -7,10 +7,20 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Analysis of Unfolded Protein Response Activation in Colon Adenocarcinoma Epithelial Cells: A Proteomic Study</title>
+      <link>/publication/analysis_of_unfolded_protein_res/</link>
+      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/analysis_of_unfolded_protein_res/</guid>
+      <description>&lt;p&gt;PurposeHigh throughput technologies have identified molecular patterns in colorectal cancer (CRC) cells, aiding in modeling responses to anti‐cancer treatments. The different responses observed depend on the type of cancer, the tumour grade and the functional programme of the cancer cells. Recent studies suggest that the unfolded protein response (UPR), autophagy and apoptosis could be involved in treatment resistance mechanisms by interacting with the tumour microenvironment (TME).Experimental DesignWe analysed by LC‐MS/MS the proteome of two representative colon adenocarcinoma epithelial cell lines from different tumour grades (CCL‐233 and CCL‐221) at the basal state or after the UPR induction.ResultsCell lines expressed a different proteome on about 10% of their total proteins identified, especially on UPR, autophagy and apoptosis pathways proteins at basal state. After UPR induction, the proteome of the cells was modified with a greater adaptive response to cellular stress in CCL‐221 cells where the UPR was strongly activated at the basal state.Conclusions and Clinical RelevanceCRC cell lines at different tumour grades expressed different functional programmes at the proteomic level and were characterised by different responses to the UPR induction. This study suggests that baseline cancer cell stress status could have an impact on the efficiency of cancer therapies.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Evaluation of lupus anticoagulant, damage, and remission as predictors of pregnancy complications in systemic lupus erythematosus: the French GR2 study.</title>
@@ -35,9 +45,7 @@
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -63,9 +71,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -91,9 +97,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -119,9 +123,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -147,9 +149,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -175,9 +175,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -203,9 +201,16 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
+    </item>
+    
+    <item>
+      <title>Development and characterization of a hydrogel-based adhesive patch for sealing open-globe injuries</title>
+      <link>/publication/development_and_characterization/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/development_and_characterization/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -231,9 +236,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -259,9 +262,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -287,9 +288,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -315,9 +314,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -343,9 +340,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -371,9 +366,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -399,9 +392,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -427,9 +418,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -455,9 +444,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -483,9 +470,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -511,9 +496,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -539,9 +522,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -567,9 +548,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -595,121 +574,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Extended myositis-specific and -associated antibodies profile in systemic sclerosis: A cross-sectional study</title>
-      <link>/publication/article-2021-leurs-j.jbspin.2020.06.021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/article-2021-leurs-j.jbspin.2020.06.021/</guid>
-      <description>&lt;!---
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Factors associated with COVID-19-related death in people with rheumatic diseases: results from the COVID-19 Global Rheumatology Alliance physician-reported registry</title>
-      <link>/publication/article-2021-strangfeld-annrheumdis-2020-219498/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/article-2021-strangfeld-annrheumdis-2020-219498/</guid>
-      <description>&lt;!---
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Factors associated with fears due to COVID-19: A Scleroderma Patient-centered Intervention Network (SPIN) COVID-19 cohort study</title>
-      <link>/publication/article-2021-wu-j.jpsychores.2020.110314/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/article-2021-wu-j.jpsychores.2020.110314/</guid>
-      <description>&lt;!---
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Impact of Three Different Algorithms for the Screening of SSc-PAH and Comparison with the Decisions of a Multidisciplinary Team</title>
-      <link>/publication/article-2021-sobanski-diagnostics11101738/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/article-2021-sobanski-diagnostics11101738/</guid>
-      <description>&lt;!---
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -735,9 +600,111 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
+    </item>
+    
+    <item>
+      <title>Extended myositis-specific and -associated antibodies profile in systemic sclerosis: A cross-sectional study</title>
+      <link>/publication/article-2021-leurs-j.jbspin.2020.06.021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/article-2021-leurs-j.jbspin.2020.06.021/</guid>
+      <description>&lt;!---
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+--&gt;</description>
+    </item>
+    
+    <item>
+      <title>Factors associated with COVID-19-related death in people with rheumatic diseases: results from the COVID-19 Global Rheumatology Alliance physician-reported registry</title>
+      <link>/publication/article-2021-strangfeld-annrheumdis-2020-219498/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/article-2021-strangfeld-annrheumdis-2020-219498/</guid>
+      <description>&lt;!---
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+--&gt;</description>
+    </item>
+    
+    <item>
+      <title>Factors associated with fears due to COVID-19: A Scleroderma Patient-centered Intervention Network (SPIN) COVID-19 cohort study</title>
+      <link>/publication/article-2021-wu-j.jpsychores.2020.110314/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/article-2021-wu-j.jpsychores.2020.110314/</guid>
+      <description>&lt;!---
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+--&gt;</description>
+    </item>
+    
+    <item>
+      <title>Impact of Three Different Algorithms for the Screening of SSc-PAH and Comparison with the Decisions of a Multidisciplinary Team</title>
+      <link>/publication/article-2021-sobanski-diagnostics11101738/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/article-2021-sobanski-diagnostics11101738/</guid>
+      <description>&lt;!---
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+--&gt;</description>
     </item>
     
     <item>
@@ -763,9 +730,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -791,9 +756,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -819,9 +782,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -847,9 +808,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -875,9 +834,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -903,9 +860,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -931,9 +886,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -959,9 +912,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -987,9 +938,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1015,9 +964,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1043,9 +990,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1071,9 +1016,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1099,9 +1042,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1127,9 +1068,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1155,9 +1094,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1183,9 +1120,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1211,9 +1146,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1239,9 +1172,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1267,9 +1198,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1295,9 +1224,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1323,9 +1250,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1351,9 +1276,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1379,9 +1302,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1407,9 +1328,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1435,9 +1354,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1463,9 +1380,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1491,9 +1406,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1519,9 +1432,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1547,9 +1458,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1575,9 +1484,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1603,9 +1510,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1631,9 +1536,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1659,9 +1562,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1687,9 +1588,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1715,9 +1614,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1743,9 +1640,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1771,149 +1666,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Characteristics and Survival of Anti-U1 RNP Antibody-Positive Patients With Connective Tissue Disease-Associated Pulmonary Arterial Hypertension</title>
-      <link>/publication/article-2016-sobanski-art.39432/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/article-2016-sobanski-art.39432/</guid>
-      <description>&lt;!---
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Current Approaches to the Treatment of Systemic-Sclerosis-Associated Pulmonary Arterial Hypertension (SSc-PAH)</title>
-      <link>/publication/article-2016-sobanski-s11926-015-0560-x/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/article-2016-sobanski-s11926-015-0560-x/</guid>
-      <description>&lt;!---
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Special considerations in pregnant systemic sclerosis patients</title>
-      <link>/publication/article-2016-sobanski-1744666x.2016.1194201/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/article-2016-sobanski-1744666x.2016.1194201/</guid>
-      <description>&lt;!---
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sweet syndrome and disseminated Mycobacterium tuberculosis infection</title>
-      <link>/publication/article-2016-ledoult-ejd.2015.2711/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/article-2016-ledoult-ejd.2015.2711/</guid>
-      <description>&lt;!---
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The role of anti-U1 RNP positivity in predicting survival in patients with connective tissue disease-associated pulmonary arterial hypertension: angel or demon? Comment on the article by Sobanski et al Reply</title>
-      <link>/publication/article-2016-sobanski-art.39652/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/article-2016-sobanski-art.39652/</guid>
-      <description>&lt;!---
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1939,9 +1692,137 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
+    </item>
+    
+    <item>
+      <title>Characteristics and Survival of Anti-U1 RNP Antibody-Positive Patients With Connective Tissue Disease-Associated Pulmonary Arterial Hypertension</title>
+      <link>/publication/article-2016-sobanski-art.39432/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/article-2016-sobanski-art.39432/</guid>
+      <description>&lt;!---
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+--&gt;</description>
+    </item>
+    
+    <item>
+      <title>Current Approaches to the Treatment of Systemic-Sclerosis-Associated Pulmonary Arterial Hypertension (SSc-PAH)</title>
+      <link>/publication/article-2016-sobanski-s11926-015-0560-x/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/article-2016-sobanski-s11926-015-0560-x/</guid>
+      <description>&lt;!---
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+--&gt;</description>
+    </item>
+    
+    <item>
+      <title>Special considerations in pregnant systemic sclerosis patients</title>
+      <link>/publication/article-2016-sobanski-1744666x.2016.1194201/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/article-2016-sobanski-1744666x.2016.1194201/</guid>
+      <description>&lt;!---
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+--&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sweet syndrome and disseminated Mycobacterium tuberculosis infection</title>
+      <link>/publication/article-2016-ledoult-ejd.2015.2711/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/article-2016-ledoult-ejd.2015.2711/</guid>
+      <description>&lt;!---
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+--&gt;</description>
+    </item>
+    
+    <item>
+      <title>The role of anti-U1 RNP positivity in predicting survival in patients with connective tissue disease-associated pulmonary arterial hypertension: angel or demon? Comment on the article by Sobanski et al Reply</title>
+      <link>/publication/article-2016-sobanski-art.39652/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/article-2016-sobanski-art.39652/</guid>
+      <description>&lt;!---
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+--&gt;</description>
     </item>
     
     <item>
@@ -1967,9 +1848,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1995,9 +1874,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -2023,9 +1900,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -2051,9 +1926,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -2079,9 +1952,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -2107,9 +1978,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -2135,9 +2004,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -2163,9 +2030,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -2191,9 +2056,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -2219,9 +2082,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -2247,9 +2108,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -2275,9 +2134,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -2303,9 +2160,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -2331,9 +2186,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -2359,9 +2212,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
   </channel>

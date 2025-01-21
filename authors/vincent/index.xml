@@ -7,10 +7,20 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/vincent/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Analysis of Unfolded Protein Response Activation in Colon Adenocarcinoma Epithelial Cells: A Proteomic Study</title>
+      <link>/publication/analysis_of_unfolded_protein_res/</link>
+      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/analysis_of_unfolded_protein_res/</guid>
+      <description>&lt;p&gt;PurposeHigh throughput technologies have identified molecular patterns in colorectal cancer (CRC) cells, aiding in modeling responses to anti‐cancer treatments. The different responses observed depend on the type of cancer, the tumour grade and the functional programme of the cancer cells. Recent studies suggest that the unfolded protein response (UPR), autophagy and apoptosis could be involved in treatment resistance mechanisms by interacting with the tumour microenvironment (TME).Experimental DesignWe analysed by LC‐MS/MS the proteome of two representative colon adenocarcinoma epithelial cell lines from different tumour grades (CCL‐233 and CCL‐221) at the basal state or after the UPR induction.ResultsCell lines expressed a different proteome on about 10% of their total proteins identified, especially on UPR, autophagy and apoptosis pathways proteins at basal state. After UPR induction, the proteome of the cells was modified with a greater adaptive response to cellular stress in CCL‐221 cells where the UPR was strongly activated at the basal state.Conclusions and Clinical RelevanceCRC cell lines at different tumour grades expressed different functional programmes at the proteomic level and were characterised by different responses to the UPR induction. This study suggests that baseline cancer cell stress status could have an impact on the efficiency of cancer therapies.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Multi-view clustering of heterogeneous health data: Application to systemic sclerosis</title>
@@ -35,9 +45,7 @@
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -63,9 +71,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -91,9 +97,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -119,9 +123,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -147,9 +149,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -175,9 +175,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -203,9 +201,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -231,9 +227,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -259,9 +253,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -287,9 +279,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -315,9 +305,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -343,9 +331,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -371,9 +357,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -399,9 +383,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -427,9 +409,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -455,9 +435,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -483,9 +461,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -511,9 +487,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -539,9 +513,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -567,9 +539,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -595,9 +565,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -623,9 +591,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -651,9 +617,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -679,9 +643,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -707,9 +669,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -735,9 +695,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -763,9 +721,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -791,9 +747,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -819,9 +773,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -847,9 +799,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -875,9 +825,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -903,9 +851,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -931,9 +877,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -959,9 +903,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -987,9 +929,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1015,9 +955,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1043,9 +981,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1071,9 +1007,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1099,9 +1033,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1127,9 +1059,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1155,9 +1085,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1183,9 +1111,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1211,9 +1137,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1239,9 +1163,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1267,9 +1189,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1295,9 +1215,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1323,9 +1241,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1351,9 +1267,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1379,9 +1293,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1407,9 +1319,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1435,9 +1345,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1463,9 +1371,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1491,9 +1397,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1519,9 +1423,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1547,9 +1449,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1575,9 +1475,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
     <item>
@@ -1603,9 +1501,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+--&gt;</description>
     </item>
     
   </channel>
