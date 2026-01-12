@@ -7,9 +7,44 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Thu, 02 Jan 2025 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/clement/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Immunoglobulins G from Patients with Systemic Sclerosis Modify the Molecular Signatures of Endothelial Cells</title>
+      <link>/publication/2025_01_02_10.1136_rmdopen_2024_/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2025_01_02_10.1136_rmdopen_2024_/</guid>
+      <description>&lt;pre&gt;&lt;code&gt;                Objective
+                Antinuclear antibodies (ANA) are powerful biomarkers in systemic sclerosis (SSc). Functional antibodies (FA) might be implicated in vasculopathy, in which endothelial cells (EC) are key players. We aimed to explore the effect of purified IgG from patients with SSc on omics signatures of EC and examine the influence of ANA serotypes and FA.
+              
+              
+                Methods
+                EC were cultured in the presence of purified IgG from patients with SSc, patients with systemic lupus erythematosus (SLE) or healthy controls (HC). EC omics profiles were analysed by liquid chromatography with tandem mass spectrometry (LC-MS/MS) and RNA sequencing. EC proteome induced by IgG from patients with SSc was confirmed with an external validation cohort.
+              
+              
+                Results
+                In the derivation cohort, principal component analysis (PCA) using proteomics data showed three distinct groups of subjects: a first one including mostly anti-topoisomerase-I positive patients (ATA+), a second one including mostly anti-centromere positive patients and a third group comprising anti-RNA polymerase-III positive patients, SLE and HC. In transcriptomics, PCA distinguished one group composed of ATA+patients only from a second group mixing ATA+patients with other individuals. The validation cohort confirmed the existence of two groups of distinct EC proteome profiles and clinical severity in ATA+patients. In both SSc cohorts, no association between FA presence and proteomic profiles was observed. Quantitative proteomics measured the most discriminant proteins in EC exposed to purified IgG.
+              
+              
+                Conclusion
+                Purified IgG from patients with SSc can modify EC proteome and transcriptome. The observed changes closely associate with ANA serotype.
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HBIC: A Biclustering Algorithm for Heterogeneous Datasets</title>
+      <link>/publication/2024_10_16_10.3233_faia240851/</link>
+      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2024_10_16_10.3233_faia240851/</guid>
+      <description>&lt;p&gt;Biclustering is an unsupervised machine-learning approach aiming to cluster rows and columns simultaneously in a data matrix. Several biclustering algorithms have been proposed for handling numeric datasets. However, real-world data mining problems often involve heterogeneous datasets with mixed attributes. To address this challenge, we introduce a biclustering approach called HBIC, capable of discovering meaningful biclusters in complex heterogeneous data, including numeric, binary, and categorical data. The approach comprises two stages: bicluster generation and bicluster model selection. In the initial stage, several candidate biclusters are generated iteratively by adding and removing rows and columns based on the frequency of values in the original matrix. In the second stage, we introduce two approaches for selecting the most suitable biclusters by considering their size and homogeneity. Through a series of experiments, we investigated the suitability of our approach on a synthetic benchmark and in a biomedical application involving clinical data of systemic sclerosis patients. The evaluation comparing our method to existing approaches demonstrates its ability to discover high-quality biclusters from heterogeneous data. Our biclustering approach is a starting point for heterogeneous bicluster discovery, leading to a better understanding of complex underlying data structures.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

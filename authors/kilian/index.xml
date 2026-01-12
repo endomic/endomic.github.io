@@ -7,10 +7,45 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Fri, 27 Sep 2024 09:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 09:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/kilian/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fête de la Science</title>
+      <link>/talk/fete_de_la_science/</link>
+      <pubDate>Thu, 09 Oct 2025 09:00:00 +0000</pubDate>
+      
+      <guid>/talk/fete_de_la_science/</guid>
+      <description>&lt;p&gt;During 4 days, a team of 3 people, including Clément and me from Endomic and Nicolas from our laboratory, held a stand to explain and popularize human immunology and artificial intelligence to general public. Combining our knowledge on medical biology and computer science, we focused on showing how the human immune system works and how AI can help scientists better analyze and understand it. For that, we set up two workshops where public were invited to manipulate just like a scientist.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;For the first workshop, people were invited to extract their own skin and mouth cells, and try to colorize them using different pigments. Some of them worked better than others, so the participants had to write a protocol and run multiple experiments to assess the efficiency of the pigments.&lt;/li&gt;
+&lt;li&gt;After that, using a previously extracted blood sample, participants were asked to analyze a microscopic image to count the number of red and white blood cells. Because there were hundreds of them, it was a nearly impossible task in a reasonable time. So we showed how AI could automatically identify red and white blood cells and count them, thus demonstrating the utility of AI in biological domain.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;In the end it was a bit exhausting but very fun and satisfying experience for us, and we had a great time discussing our work with very interested people.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seminar with KU Leuven</title>
+      <link>/talk/seminar_2025_10_08/</link>
+      <pubDate>Wed, 08 Oct 2025 09:00:00 +0000</pubDate>
+      
+      <guid>/talk/seminar_2025_10_08/</guid>
+      <description>&lt;p&gt;As part of the ARCHIE chair about Machine learning applied to medicine, the Endomic team have met KU Leuven scientists Pr. Maarten De Vos and Pr. Celine Vens and their team every 6 months since February 2024 to share ideas and discuss about current work or possibility of collaborations. This time, the meeting took place in Lille on October 8th and we had the chance to attend to great presentations. Here are the different lectures given:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Pr. Zaineb Garcia&lt;/strong&gt;: Advances in Knowledge Representation, Reasoning, and Discovery with Complex Data.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pedro&lt;/strong&gt;: Challenging the Binary Classification Paradigm in Longitudinal Health Data Settings&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hibba&lt;/strong&gt;: Interpretable Multiple Sclerosis Differential Diagnosis using Graph-based Deep Multiple Instance Learning&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Robbe&lt;/strong&gt;: Multi-Event Survival Analysis-Informed Clustering on the PRECISE cohort&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stelios&lt;/strong&gt;: Automated analysis of urine samples&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kilian&lt;/strong&gt;: Presentation of an article on the application of Triclustering to amyotrophic lateral sclerosis data&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Clement&lt;/strong&gt;: Systematic literature review of variable extraction from electronic health records using instruction-tuned large language models&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This was a very enriching event and we look forward to meet them again in 6 months.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Seminar at KU Leuven</title>

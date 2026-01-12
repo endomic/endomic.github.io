@@ -7,10 +7,19 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Wed, 23 Oct 2024 09:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Sep 2025 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/adan/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Exhaustive biclustering driven by self-learning evolutionary approach for biomedical data</title>
+      <link>/publication/2025_09_02_10.1016_j.cmpb.2025.1/</link>
+      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2025_09_02_10.1016_j.cmpb.2025.1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ECAI conference</title>
@@ -22,315 +31,187 @@
     </item>
     
     <item>
-      <title>Multi-view clustering of heterogeneous health data: Application to systemic sclerosis</title>
-      <link>/publication/inproceedings-2022-jose_garcia-978-3-031-14721-0_25/</link>
-      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <title>HBIC: A Biclustering Algorithm for Heterogeneous Datasets</title>
+      <link>/publication/2024_10_16_10.3233_faia240851/</link>
+      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>/publication/inproceedings-2022-jose_garcia-978-3-031-14721-0_25/</guid>
-      <description>&lt;!---
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
---&gt;</description>
+      <guid>/publication/2024_10_16_10.3233_faia240851/</guid>
+      <description>&lt;p&gt;Biclustering is an unsupervised machine-learning approach aiming to cluster rows and columns simultaneously in a data matrix. Several biclustering algorithms have been proposed for handling numeric datasets. However, real-world data mining problems often involve heterogeneous datasets with mixed attributes. To address this challenge, we introduce a biclustering approach called HBIC, capable of discovering meaningful biclusters in complex heterogeneous data, including numeric, binary, and categorical data. The approach comprises two stages: bicluster generation and bicluster model selection. In the initial stage, several candidate biclusters are generated iteratively by adding and removing rows and columns based on the frequency of values in the original matrix. In the second stage, we introduce two approaches for selecting the most suitable biclusters by considering their size and homogeneity. Through a series of experiments, we investigated the suitability of our approach on a synthetic benchmark and in a biomedical application involving clinical data of systemic sclerosis patients. The evaluation comparing our method to existing approaches demonstrates its ability to discover high-quality biclusters from heterogeneous data. Our biclustering approach is a starting point for heterogeneous bicluster discovery, leading to a better understanding of complex underlying data structures.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evolutionary Clustering and Community Detection</title>
+      <link>/publication/2023_11_02_10.1007_978_981_99_38/</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2023_11_02_10.1007_978_981_99_38/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metaheuristic Biclustering Algorithms: From State-of-the-art to Future Opportunities</title>
+      <link>/publication/2023_10_06_10.1145_3617590/</link>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2023_10_06_10.1145_3617590/</guid>
+      <description>&lt;p&gt;Biclustering is an unsupervised machine-learning technique that simultaneously clusters rows and columns in a data matrix. Over the past two decades, the field of biclustering has emerged and grown significantly, and currently plays an essential role in various applications such as bioinformatics, text mining, and pattern recognition. However, finding significant biclusters in large-scale datasets is an NP-hard problem that can be formulated as an optimization problem. Therefore, metaheuristics have been applied to address biclustering problems due to their (i) ability to efficiently explore search spaces of complex optimization problems, (ii) capability to find solutions in reasonable computation time, and (iii) facility to adapt to different problem formulations, as they are considered general-purpose heuristic algorithms. Although several studies on biclustering approaches have been proposed, a comprehensive study using metaheuristics for bicluster analysis is missing. This work presents a survey of metaheuristic approaches to address the biclustering problem in various scientific applications. The review focuses on the underlying optimization methods and their main search components: representation, objective function, and variation operators. A specific discussion on single versus multi-objective approaches is presented. Finally, some emerging research directions are presented.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evolutionary Multiobjective Clustering Over Multiple Conflicting Data Views</title>
+      <link>/publication/2023_08_02_10.1109_tevc.2022.322/</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2023_08_02_10.1109_tevc.2022.322/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CVIK: A Matlab-based cluster validity index toolbox for automatic data clustering</title>
+      <link>/publication/2023_05_02_10.1016_j.softx.2023./</link>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2023_05_02_10.1016_j.softx.2023./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C3-IoC: A Career Guidance System for Assessing Student Skills using Machine Learning and Network Visualisation</title>
+      <link>/publication/2022_12_01_10.1007_s40593_022_00/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2022_12_01_10.1007_s40593_022_00/</guid>
+      <description>&lt;p&gt;AbstractArtificial Intelligence in Education (AIED) has witnessed significant growth over the last twenty-five years, providing a wide range of technologies to support academic, institutional, and administrative services. More recently, AIED applications have been developed to prepare students for the workforce, providing career guidance services for higher education. However, this remains challenging, especially concerning the rapidly changing labour market in the IT sector. In this paper, we introduce an AI-based solution named C3-IoC (&lt;a href=&#34;https://c3-ioc.co.uk&#34;&gt;https://c3-ioc.co.uk&lt;/a&gt;), which intends to help students explore career paths in IT according to their level of education, skills and prior experience. The C3-IoC presents a novel similarity metric method for relating existing job roles to a range of technical and non-technical skills. This also allows the visualisation of a job role network, placing the student within communities of job roles. Using a unique knowledge base, user skill profiling, job role matching, and visualisation modules, the C3-IoC supports students in self-evaluating their skills and understanding how they relate to emerging IT jobs.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>What’s in a distance? Exploring the interplay between distance measures and internal cluster validity in multi-objective clustering</title>
-      <link>/publication/article-2022-jose_garcia-s11047-022-09909-y/</link>
-      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <link>/publication/2022_08_22_10.1007_s11047_022_09/</link>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>/publication/article-2022-jose_garcia-s11047-022-09909-y/</guid>
-      <description>&lt;!---
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
---&gt;</description>
+      <guid>/publication/2022_08_22_10.1007_s11047_022_09/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>On the interaction between distance functions and clustering criteria in multi-objective clustering</title>
-      <link>/publication/inproceedings-2021-jose_garcia-978-3-030-72062-9_40/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <title>Biclustering Algorithms Based on Metaheuristics: A Review</title>
+      <link>/publication/2022_08_13_10.1007_978_981_19_38/</link>
+      <pubDate>Sat, 13 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>/publication/inproceedings-2021-jose_garcia-978-3-030-72062-9_40/</guid>
-      <description>&lt;!---
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
---&gt;</description>
+      <guid>/publication/2022_08_13_10.1007_978_981_19_38/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>{A survey of cluster validity indices for automatic data clustering using differential evolution}</title>
-      <link>/publication/inproceedings-2021-jose_garcia-3449639.3459341/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <title>Multi-view Clustering of Heterogeneous Health Data: Application to Systemic Sclerosis</title>
+      <link>/publication/2022_01_02_10.1007_978_3_031_147/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/publication/inproceedings-2021-jose_garcia-3449639.3459341/</guid>
-      <description>&lt;!---
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
---&gt;</description>
+      <guid>/publication/2022_01_02_10.1007_978_3_031_147/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>{An evolutionary many-objective approach to multiview clustering using feature and relational data}</title>
-      <link>/publication/article-2021-jose_garcia-j.asoc.2021.107425/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <title>An evolutionary many-objective approach to multiview clustering using feature and relational data</title>
+      <link>/publication/2021_09_02_10.1016_j.asoc.2021.1/</link>
+      <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>/publication/article-2021-jose_garcia-j.asoc.2021.107425/</guid>
-      <description>&lt;!---
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
---&gt;</description>
+      <guid>/publication/2021_09_02_10.1016_j.asoc.2021.1/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Detection of fiber defects using keypoints and deep learning</title>
-      <link>/publication/article-2020-siegmund-s0218001421500166/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <title>A survey of cluster validity indices for automatic data clustering using differential evolution</title>
+      <link>/publication/2021_06_26_10.1145_3449639.34593/</link>
+      <pubDate>Sat, 26 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>/publication/article-2020-siegmund-s0218001421500166/</guid>
-      <description>&lt;!---
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
---&gt;</description>
+      <guid>/publication/2021_06_26_10.1145_3449639.34593/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Automatic clustering algorithms: A systematic review and bibliometric analysis of relevant literature</title>
-      <link>/publication/article-2020-ezugwu-s00521-020-05395-4/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <title>On the Interaction Between Distance Functions and Clustering Criteria in Multi-objective Clustering</title>
+      <link>/publication/2021_01_02_10.1007_978_3_030_720/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/publication/article-2020-ezugwu-s00521-020-05395-4/</guid>
-      <description>&lt;!---
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
---&gt;</description>
+      <guid>/publication/2021_01_02_10.1007_978_3_030_720/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>{Many-view clustering: An illustration using multiple dissimilarity measures}</title>
-      <link>/publication/inproceedings-2019-jose_garcia-3319619.3323365/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <title>Detection of Fiber Defects Using Keypoints and Deep Learning</title>
+      <link>/publication/2020_12_05_10.1142_s021800142150/</link>
+      <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/publication/inproceedings-2019-jose_garcia-3319619.3323365/</guid>
-      <description>&lt;!---
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
---&gt;</description>
+      <guid>/publication/2020_12_05_10.1142_s021800142150/</guid>
+      <description>&lt;p&gt;Due to the deforming and dynamically changing textile fibers, the quality assurance of cleaned industrial textiles is still a mostly manual task. Usually, textiles need to be spread flat, in order to detect defects using computer vision inspection methods. Already known methods for detecting defects on such inhomogeneous, voluminous surfaces use mainly supervised methods based on deep neural networks and require lots of labeled training data. In contrast, we present a novel unsupervised method, based on SURF keypoints, that does not require any training data. We propose using their location, number and orientation in order to group them into geographically close clusters. Keypoint clusters also indicate the exact position of the defect at the same time. We furthermore compared our approach to supervised methods using deep learning. The presented processing pipeline shows how normalization and classification methods need to be combined, in order to reliably detect fiber defects such as cuts and holes. We evaluate the performance of our system in real-world settings with images of piles of textiles, taken in stereo vision. Our results show that our novel unsupervised classification method using keypoint clustering achieves comparable results to other supervised methods.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>{Evolutionary clustering using multi-prototype representation and Connectivity Criterion}</title>
-      <link>/publication/inproceedings-2017-jose_garcia-978-3-319-59226-8_7/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <title>Automatic clustering algorithms: a systematic review and bibliometric analysis of relevant literature</title>
+      <link>/publication/2020_10_10_10.1007_s00521_020_05/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>/publication/inproceedings-2017-jose_garcia-978-3-319-59226-8_7/</guid>
-      <description>&lt;!---
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
---&gt;</description>
+      <guid>/publication/2020_10_10_10.1007_s00521_020_05/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>{Automatic clustering using nature-inspired metaheuristics: A survey}</title>
-      <link>/publication/article-2016-jose_garcia-j.asoc.2015.12.001/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <title>Many-view clustering</title>
+      <link>/publication/2019_07_13_10.1145_3319619.33233/</link>
+      <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/article-2016-jose_garcia-j.asoc.2015.12.001/</guid>
-      <description>&lt;!---
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
---&gt;</description>
+      <guid>/publication/2019_07_13_10.1145_3319619.33233/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Rule-based approach for topic maps learning from relational databases</title>
-      <link>/publication/article-2015-jose_garcia-exsy.12113/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <title>Evolutionary Clustering Using Multi-prototype Representation and Connectivity Criterion</title>
+      <link>/publication/2017_01_02_10.1007_978_3_319_592/</link>
+      <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/article-2015-jose_garcia-exsy.12113/</guid>
-      <description>&lt;!---
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
---&gt;</description>
+      <guid>/publication/2017_01_02_10.1007_978_3_319_592/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic clustering using nature-inspired metaheuristics: A survey</title>
+      <link>/publication/2016_04_02_doi.org_10.1016_j.aso/</link>
+      <pubDate>Sat, 02 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2016_04_02_doi.org_10.1016_j.aso/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Building topic maps from relational databases</title>
-      <link>/publication/inproceedings-2012-jose_garcia-iceee.2012.6421192/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <link>/publication/2012_09_02_10.1109_iceee.2012.64/</link>
+      <pubDate>Sun, 02 Sep 2012 00:00:00 +0000</pubDate>
       
-      <guid>/publication/inproceedings-2012-jose_garcia-iceee.2012.6421192/</guid>
-      <description>&lt;!---
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
---&gt;</description>
+      <guid>/publication/2012_09_02_10.1109_iceee.2012.64/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Mutation-Selection Algorithm for the Problem of Minimum Brauer Chains</title>
+      <link>/publication/2011_01_02_http___dx.doi.org_10./</link>
+      <pubDate>Sun, 02 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2011_01_02_http___dx.doi.org_10./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Simulated Annealing Algorithm for the Problem of Minimal Addition Chains</title>
+      <link>/publication/2011_01_02_10.1007_978_3_642_247/</link>
+      <pubDate>Sun, 02 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2011_01_02_10.1007_978_3_642_247/</guid>
+      <description></description>
     </item>
     
   </channel>

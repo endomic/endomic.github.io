@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 on ENDOMIC Team</title>
+    <link>/publication_types/3/</link>
+    <description>Recent content in 3 on ENDOMIC Team</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Fri, 26 Apr 2024 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Predicting interstitial lung disease progression in patients with systemic sclerosis using attentive neural processes - a EUSTAR study</title>
+      <link>/publication/2024_04_26_10.1101_2024.04.25.24/</link>
+      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2024_04_26_10.1101_2024.04.25.24/</guid>
+      <description>&lt;p&gt;Ajats:scbstractjats:scBackgroundSystemic sclerosis (SSc) is an autoimmune disease with high mortality with lung involvement being the primary cause of death. Progressive interstitial lung disease (ILD) leads to a decline in lung function (forced vital capacity, FVC% predicted) with risk of respiratory failure. These patients could benefit from an early and tailored pharmacological intervention. However, up to date, tools for prediction of individual FVC changes are lacking. In this paper, we aimed at developing a trustworthy machine learning system that is able to guide SSc management by providing not only robust FVC predictions, but also uncertainty quantification (i.e. the degree of certainty of model prediction) as well as similarity-based explainability for any patient P (i.e. a list of past SSc patients with similar FVC trajectories like P). We further aimed to identify the key clinical factors influencing the model’s predictions and to use model-guided data representation to identify SSc patients with similar sequential FVC measurements.MethodsWe trained and evaluated machine learning (ML) models to predict SSc-ILD trajectory as measured by FVC% predicted values using the international SSc database managed by the European Scleroderma Trials and Research group (EUSTAR), which comprises clinical, laboratory and functional parameters. EUSTAR records patients’ data in annual assessment visits, and, given any visit, we aimed at predicting the FVC value of a patient’s subsequent visit, taking into account all available patient data (i.e. baseline and follow-up visit data up to the time point where we make the prediction). For training of our ML models, we included 2220 SSc patients that had at least 3 recorded visits in the EUSTAR database, were at least 18 years old, had confirmed ILD and sufficient clinical documentation. We developed sequential ML models implementing the attentive neural process formalism with either a recurrent (ANP RNN) or transformer encoder (ANP transformer) architecture. We compared these architectures with baseline sequential models including gated recurrent neural networks (RNNs) and multi-head self-attention transformer-based networks. Baseline non-sequential models included tree-based models such as gradient boosting trees, and regression-based models with varying regularization schemes. Our experiments used stratified 5-fold cross-validation to train and test the models using the average root mean squared error (RMSE), weighted RMSE, and mean absolute error (MAE) as performance metrics. We computed the coverage and Winkler score for uncertainty quantification, SHAP values for grading the input features importance and used the data embeddings of the ANP architectures for both similarity-based explainability and the identification of similar SSc patient journeys.ResultsPatients’ baseline FVC scores ranged from 22 to 150% predicted with a mean (SD) of 90.53% predicted (21.52). Our deep learning models showed better performance for FVC forecasting, compared to tree- and regression-based models. The top performing ANP RNN architecture was able to closely model future FVC values with average (SD) performance of 8.240 (0.168) weighted RMSE and 6.94 (0.190) MAE that was further used as feature generator for a logistic regression trained to predict a FVC% decline of at least 10% points achieving 0.704 AUC score. In comparison, a naïve baseline using the mean FVC value as a predictor achieved much lower FVC forecasting capabilities, with 18.718 (0.317) weighted RMSE, and 17.619 (0.599) MAE. SHAP value analysis indicated that prior FVC measurements, diffusion of carbon monoxide (DLCO) values, skin involvement, age, anti-centromere positivity, dyspnea and CRP-elevation contributed most to deep-learning-based FVC predictions. Regarding uncertainty quantification, ANP RNN achieved 79% coverage (i.e. the model would provide uncertainty estimates that included the true future FVC value in 79 out of 100 predictions) out of the box, and 90% using an additional conformal prediction module with an corresponding Winkler score of 892 (indicating the width of the uncertainty estimate plus penalty for mistakes), smaller than any other model at the same coverage level. We further demonstrate how the data abstraction provided by the ANP RNN model (embeddings) allows for deriving similar patient trajectories (for similarity-based explanation).ConclusionsOur study demonstrates the feasibility of FVC forecasting and thus the ability to predict ILD trajectories in individual SSc patients using deep learning. We show that model predictions can be paired with uncertainty quantification and similarity-based model explainability, which are crucial elements for deploying trustworthy ML algorithms. Our study is thus an important first step towards reliable automated ILD trajectory (i.e. FVC%) prediction system with potential clinical utility.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Perception of aesthetic impairment in patients with systemic sclerosis using a semi-quantitative scale and association with disease characteristics.</title>
+      <link>/publication/2022_12_05_10.21203_rs.3.rs_2233/</link>
+      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2022_12_05_10.21203_rs.3.rs_2233/</guid>
+      <description>&lt;p&gt;titleAbstracttitle
+pBackground: Systemic sclerosis (SSc) is a fibrotic disease. Assessment of body image could be central in optimizing care. Yet, data are scarce. The main objective was to assess perception of aesthetic impairment using a visual aesthetic scale (AES) in patients with SSc compared to healthy subjects. Secondary objectives were to assess associations between perception of aesthetic impairment and standardized questionnaires for aesthetic impairment as well as clinical, psychological/quality of life, and functional parameters of SSc.
+Methods: This study evaluated and compared perception of aesthetic impairment in two populations: patients with SSc, in a referral center at Lille Hospital, France, and healthy controls.
+Results: This study included 88 patients (69 [78.4%] women) with a median age of 52 years and 88 controls (49 [55.7%] women) with a median age of 45 years. Perception of aesthetic impairment assessed using the AES was poorer in patients than in controls (3.7 ± 0.3 vs 2.8 ± 0.3, p=0.028), with statistical correlation with ASWAP, a specific aesthetic impact assessment questionnaire for patients with SSc. Patients with anxiety or depressive symptoms had significantly higher AES scores. SSc patients with facial involvement and pitting scars had a worse perception of aesthetic impairment. SSc patients have a worse perception of aesthetic impairment than healthy controls, especially in SSc patients with anxiety or depression and those with facial and hand involvement.
+Conclusion: The AES appears to be an ease of use tool to evaluate body image. Correlations found with psychological and quality of life parameters reflect the importance of these parameters for body image evaluation and its complex assessment.
+italicTrial registration: Clinical Trial italicNCT03271320italic. Registered 09 January 2017, &lt;a href=&#34;https://www.clinicaltrials.gov/ct2/show/NCT03271320?term=NCT03271320&amp;amp;amp;cntry=FR&amp;amp;amp;draw=2&amp;amp;amp;rank=1italicp&#34;&gt;https://www.clinicaltrials.gov/ct2/show/NCT03271320?term=NCT03271320&amp;amp;amp;cntry=FR&amp;amp;amp;draw=2&amp;amp;amp;rank=1italicp&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A survey of cluster validity indices for automatic data clustering using differential evolution</title>
+      <link>/publication/2021_06_26_10.1145_3449639.34593/</link>
+      <pubDate>Sat, 26 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2021_06_26_10.1145_3449639.34593/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perception of Aesthetic Impairment in Patients With Systemic Sclerosis: A Case Control Study Using a Semi-Quantitative Scale for Body Image Assessment.</title>
+      <link>/publication/2021_05_19_10.21203_rs.3.rs_5260/</link>
+      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2021_05_19_10.21203_rs.3.rs_5260/</guid>
+      <description>&lt;p&gt;Abstract
+jats:boldBackground:jats:bold Systemic sclerosis (SSc) is a fibrotic disease. Assessment of body image could be central in optimizing care. Yet, data are scarce. The main objective was to assess perception of aesthetic impairment using a visual aesthetic scale (AES) in patients with SSc compared to healthy subjects. Secondary objectives were to assess associations between perception of aesthetic impairment and standardized questionnaires for aesthetic impairment as well as clinical, psychological/quality of life, and functional parameters of SSc. jats:boldMethods:jats:bold This study evaluated and compared perception of aesthetic impairment in two populations: patients with SSc, in a referral center at Lille Hospital, France, and healthy controls. jats:boldResults:jats:bold This study included 88 patients (69 [78.4%] women) with a median age of 52 years and 88 controls (49 [55.7%] women) with a median age of 45 years. Perception of aesthetic impairment assessed using the AES was poorer in patients than in controls (3.7 ± 0.3 vs 2.8 ± 0.3, p=0.028), with statistical correlation with ASWAP. Patients with anxiety or depressive symptoms had significantly higher AES scores. jats:boldConclusion:jats:bold The AES appears to be an ease of use tool to evaluate body image. Correlations found with psychological and quality of life parameters reflect the importance of these parameters for body image evaluation and its complex assessment.jats:boldTrials registrationjats:bold: NCT03271320&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Many-view clustering</title>
+      <link>/publication/2019_07_13_10.1145_3319619.33233/</link>
+      <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019_07_13_10.1145_3319619.33233/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building topic maps from relational databases</title>
+      <link>/publication/2012_09_02_10.1109_iceee.2012.64/</link>
+      <pubDate>Sun, 02 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2012_09_02_10.1109_iceee.2012.64/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

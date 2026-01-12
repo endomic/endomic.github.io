@@ -7,9 +7,44 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Thu, 17 Jul 2025 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/marie_elise/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Anti-RNA polymerase III antibodies in systemic sclerosis: prevalence and clinical associations from a systematic review and meta-analysis</title>
+      <link>/publication/2025_07_17_10.1093_rheumatology_/</link>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2025_07_17_10.1093_rheumatology_/</guid>
+      <description>&lt;p&gt;Abstract&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;                Objectives
+                Anti-RNA polymerase III antibodies (ARA) are frequent in systemic sclerosis (SSc). However, the reported prevalence is variable among studies and some clinical associations are debated. We aimed (i) to update the recent data on overall ARA prevalence in SSc and heterogeneity between centres; and (ii) to describe their clinical associations.
+              
+              
+                Methods
+                A systematic review of the literature available up to June 2024 was carried out in Pubmed and Embase. Meta-analyses were performed to assess the prevalence and clinical associations of ARA in SSc, combined with meta-regressions in case of heterogeneity to identify potential cofactors.
+              
+              
+                Results
+                Ninety-three studies corresponding to a total of 23 038 SSc patients were included in the meta-analysis. In this population, the overall seroprevalence of ARA was 9% (95% CI: 8–10) with a high degree of heterogeneity (I2 = 88%, P &amp;amp;amp;lt; 0.001). ARA positivity was significantly associated with diffuse cutaneous subset (OR: 2.20 [1.91–2.53]), joint manifestations (OR: 1.29 [1.01–1.66]), gastric antral vascular ectasia (GAVE) (OR: 2.70 [1.52–4.81]), heart involvement (OR: 1.93 [1.18–3.18]), scleroderma renal crisis (OR: 7.82 [5.79–10.57]), interstitial lung disease (ILD) (OR: 1.10 [1.00–1.20]) and cancer (OR: 1.86 [1.33–2.59]).
+              
+              
+                Conclusion
+                This study provides an overall seroprevalence of ARA of 9% [8–10] and confirms that SSc patients with ARA are at higher risk of severe skin extension and renal crisis. It also highlights a positive association with cancer, GAVE, heart, joint involvement and ILD. ARA positive SSc patients could therefore benefit from an appropriate screening of these potentially severe complications.
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prevalence of anti-Ro52-kDa/SSA (TRIM21) antibodies and associated clinical phenotype in systemic sclerosis: Data from a French cohort, a systematic review and meta-analysis</title>
+      <link>/publication/2024_05_02_10.1016_j.autrev.2024/</link>
+      <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2024_05_02_10.1016_j.autrev.2024/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/authors/adan/</loc>
-    <lastmod>2024-10-23T09:00:00+00:00</lastmod>
+    <lastmod>2025-09-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
@@ -24,7 +24,7 @@
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/solange/</loc>
-    <lastmod>2024-09-03T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/courses/example.2/example4/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
@@ -36,57 +36,196 @@
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
     <loc>/authors/aurelien/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/lucile/</loc>
-    <lastmod>2024-09-03T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/clement/</loc>
+    <lastmod>2025-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/marie/</loc>
   </url><url>
     <loc>/authors/maxime/</loc>
   </url><url>
     <loc>/authors/kilian/</loc>
-    <lastmod>2024-09-27T09:00:00+00:00</lastmod>
+    <lastmod>2025-10-09T09:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/marie_elise/</loc>
+    <lastmod>2025-07-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/julien/</loc>
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2024-10-23T09:00:00+00:00</lastmod>
+    <lastmod>2025-10-09T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2025-10-09T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/fete_de_la_science/</loc>
+    <lastmod>2025-10-09T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/</loc>
+    <lastmod>2025-10-09T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/seminar_2025_10_08/</loc>
+    <lastmod>2025-10-08T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/vincent/</loc>
+    <lastmod>2025-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2025-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2025_09_17_10.1002_art.43305/</loc>
+    <lastmod>2025-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/david-launay/</loc>
+    <lastmod>2025-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2025-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2025-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2025_09_02_10.1016_j.cmpb.2025.1/</loc>
+    <lastmod>2025-09-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2025_07_17_10.1093_rheumatology_/</loc>
+    <lastmod>2025-07-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2025_07_02_10.1016_j.autrev.2025/</loc>
+    <lastmod>2025-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2025_06_03_10.1093_rheumatology_/</loc>
+    <lastmod>2025-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2025_06_02_10.1016_j.jtauto.2025/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2025_05_26_10.1186_s12888_025_06/</loc>
+    <lastmod>2025-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2025_05_08_10.1186_s13063_025_08/</loc>
+    <lastmod>2025-05-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2025_04_02_10.1136_rmdopen_2024_/</loc>
+    <lastmod>2025-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/louisa/</loc>
+    <lastmod>2025-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2025_01_02_10.1136_rmdopen_2024_/</loc>
+    <lastmod>2025-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2024_11_02_10.1136_rmdopen_2024_/</loc>
+    <lastmod>2024-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2024_10_24_10.1093_rheumatology_/</loc>
+    <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/talk/ecai/</loc>
     <lastmod>2024-10-23T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2024-10-23T09:00:00+00:00</lastmod>
+    <loc>/publication_types/6/</loc>
+    <lastmod>2024-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/talk/</loc>
-    <lastmod>2024-10-23T09:00:00+00:00</lastmod>
+    <loc>/publication/2024_10_16_10.3233_faia240851/</loc>
+    <lastmod>2024-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2024_10_02_10.1016_s2665_991324/</loc>
+    <lastmod>2024-10-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/talk/kuleuven/</loc>
     <lastmod>2024-09-27T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/vincent/</loc>
+    <loc>/publication/2024_09_03_10.1002_prca.20240000/</loc>
     <lastmod>2024-09-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2024-09-03T00:00:00+00:00</lastmod>
+    <loc>/publication/2024_08_17_10.1093_rheumatology_/</loc>
+    <lastmod>2024-08-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/analysis_of_unfolded_protein_res/</loc>
-    <lastmod>2024-09-03T00:00:00+00:00</lastmod>
+    <loc>/publication/2024_08_14_10.1021_acs.jproteome/</loc>
+    <lastmod>2024-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/david-launay/</loc>
-    <lastmod>2024-09-03T00:00:00+00:00</lastmod>
+    <loc>/publication/2024_05_02_10.1016_s1773_035x24/</loc>
+    <lastmod>2024-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2024-09-03T00:00:00+00:00</lastmod>
+    <loc>/publication/2024_05_02_10.1016_j.autrev.2024/</loc>
+    <lastmod>2024-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2024-09-03T00:00:00+00:00</lastmod>
+    <loc>/publication_types/3/</loc>
+    <lastmod>2024-04-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/sylvain-dubucquoi/</loc>
-    <lastmod>2024-09-03T00:00:00+00:00</lastmod>
+    <loc>/publication/2024_04_26_10.1101_2024.04.25.24/</loc>
+    <lastmod>2024-04-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2024_03_26_10.1177_2397198324123/</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2024_03_12_10.1093_rheumatology_/</loc>
+    <lastmod>2024-03-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2024_03_07_10.1093_rheumatology_/</loc>
+    <lastmod>2024-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2024_02_27_10.1177_2397198324123/</loc>
+    <lastmod>2024-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2024_01_18_10.1007_s12529_023_10/</loc>
+    <lastmod>2024-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2024_01_02_10.1007_978_3_031_406/</loc>
+    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2023_12_23_10.1093_rheumatology_/</loc>
+    <lastmod>2023-12-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2023_11_02_10.1007_978_981_99_38/</loc>
+    <lastmod>2023-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2023_10_06_10.1145_3617590/</loc>
+    <lastmod>2023-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2023_09_12_10.1038_s41598_023_42/</loc>
+    <lastmod>2023-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2023_08_31_10.3390_healthcare111/</loc>
+    <lastmod>2023-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2023_08_02_10.1109_tevc.2022.322/</loc>
+    <lastmod>2023-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2023_08_02_10.1016_j.eclinm.2023/</loc>
+    <lastmod>2023-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2023_06_02_10.1016_s2665_991323/</loc>
+    <lastmod>2023-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2023_05_02_10.1016_j.softx.2023./</loc>
+    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2023_02_22_10.55563_clinexprheum/</loc>
+    <lastmod>2023-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2023_01_02_10.1016_j.jtauto.2023/</loc>
+    <lastmod>2023-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2022_12_12_10.1186_s13063_022_06/</loc>
+    <lastmod>2022-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2022_12_05_10.21203_rs.3.rs_2233/</loc>
+    <lastmod>2022-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2022_12_02_10.1016_s2665_991322/</loc>
+    <lastmod>2022-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2022_12_01_10.1007_s40593_022_00/</loc>
+    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2022_10_15_10.1186_s12931_022_02/</loc>
+    <lastmod>2022-10-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/admin/</loc>
     <lastmod>2022-09-27T00:00:00+00:00</lastmod>
@@ -112,38 +251,38 @@
     <loc>/tags/</loc>
     <lastmod>2022-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication_types/1/</loc>
-    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2022_08_30_10.3390_jcm11175087/</loc>
+    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/inproceedings-2022-jose_garcia-978-3-031-14721-0_25/</loc>
-    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2022_08_22_10.1007_s11047_022_09/</loc>
+    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2022-larosa-rheumatology/</loc>
-    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2022_08_17_10.3390_healthcare100/</loc>
+    <lastmod>2022-08-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2022-jose_garcia-s11047-022-09909-y/</loc>
-    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2022_08_13_10.1007_978_981_19_38/</loc>
+    <lastmod>2022-08-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2022-yelnik-09612033221114275/</loc>
-    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2022_07_29_10.3389_fimmu.2022.95/</loc>
+    <lastmod>2022-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2022-ledoult-s41598-022-15640-6/</loc>
-    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2022_07_13_10.1177_0961203322111/</loc>
+    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/louisa/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2022_07_11_10.1038_s41598_022_15/</loc>
+    <lastmod>2022-07-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2022-chepy-fimmu.2022.930970/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2022_06_29_10.3389_fimmu.2022.90/</loc>
+    <lastmod>2022-06-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/vincent-koether/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2022_06_28_10.3389_fimmu.2022.93/</loc>
+    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/project/omics/</loc>
     <lastmod>2022-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2022-decker-j.ejim.2021.12.021/</loc>
-    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2022_03_02_10.1016_j.ejim.2021.1/</loc>
+    <lastmod>2022-03-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/clustering/</loc>
     <lastmod>2022-02-27T00:00:00+00:00</lastmod>
@@ -151,140 +290,113 @@
     <loc>/project/machine-learning/</loc>
     <lastmod>2022-02-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2022-kwakkenbos-s40814-022-00994-5/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2022_02_26_10.1186_s40814_022_00/</loc>
+    <lastmod>2022-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/development_and_characterization/</loc>
+    <loc>/publication/2022_01_07_10.1093_rheumatology_/</loc>
+    <lastmod>2022-01-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2022_01_02_10.1007_978_3_031_147/</loc>
     <lastmod>2022-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2022-sobanski-jcm11175087/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2021_12_02_10.1016_s2665_991321/</loc>
+    <lastmod>2021-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2022-chepy-fimmu.2022.904631/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2021_11_27_10.1186_s13063_021_05/</loc>
+    <lastmod>2021-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2022-sobanski-healthcare10081558/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2021_11_02_10.1002_pmic.20210011/</loc>
+    <lastmod>2021-11-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2022-vivier-pmic.202100116/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2021_09_22_10.3390_diagnostics11/</loc>
+    <lastmod>2021-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2022-sanges-fimmu.2022.954007/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2021_09_02_10.1016_j.asoc.2021.1/</loc>
+    <lastmod>2021-09-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2022-antoine-j.revmed.2021.09.003/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2021_07_02_10.1186_s13023_021_01/</loc>
+    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2021-nordlund-s13063-021-05827-z/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2021_06_26_10.1145_3449639.34593/</loc>
+    <lastmod>2021-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2021-nicolas-j.revmed.2021.05.013/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2021_06_02_10.1016_s2665_991321/</loc>
+    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2021-hachulla-s13023-021-01844-y/</loc>
-    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2021_06_02_10.1183_13993003.0020/</loc>
+    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2021-avouac-s2665-99132100059-x/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2021_05_19_10.21203_rs.3.rs_5260/</loc>
+    <lastmod>2021-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2021-launay-13993003.00205-2021/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2021_03_06_10.1186_s13075_021_02/</loc>
+    <lastmod>2021-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2021-ledoult-s13075-021-02460-8/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2021_01_02_10.1016_j.jbspin.2020/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/inproceedings-2021-jose_garcia-978-3-030-72062-9_40/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2021_01_02_10.1016_j.jpsychores./</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2021-stabler-cid/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2021_01_02_10.1007_978_3_030_720/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2021-harb-acr.24567/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2020_12_05_10.1142_s021800142150/</loc>
+    <lastmod>2020-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/inproceedings-2021-jose_garcia-3449639.3459341/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2020_12_02_10.1016_j.jbspin.2020/</loc>
+    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2021-jose_garcia-j.asoc.2021.107425/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2020_12_02_10.1016_j.jpsychores./</loc>
+    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2021-leurs-j.jbspin.2020.06.021/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2020_12_02_10.1016_j.semarthrit./</loc>
+    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2021-strangfeld-annrheumdis-2020-219498/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2020_11_23_10.3233_shti200710/</loc>
+    <lastmod>2020-11-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2021-wu-j.jpsychores.2020.110314/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2020_10_10_10.1007_s00521_020_05/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2021-sobanski-diagnostics11101738/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2020_09_15_10.1097_bor.000000000/</loc>
+    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2020-hachulla-j.jbspin.2020.04.017/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2020_08_02_10.1016_j.jpsychores./</loc>
+    <lastmod>2020-08-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2020-thombs-j.jpsychores.2020.110262/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2020_05_20_10.1515_hmbci_2020_00/</loc>
+    <lastmod>2020-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2020-siegmund-s0218001421500166/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2020_03_21_10.3390_jcm9030864/</loc>
+    <lastmod>2020-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2020-forestier-j.semarthrit.2020.02.015/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2020_02_18_10.1186_s13075_020_21/</loc>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2020-mangold-shti200710/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2020_02_18_10.1093_cid_ciaa127/</loc>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2020-sobanski-bor.0000000000000747/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2019_12_02_10.1093_rheumatology_/</loc>
+    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2020-sommer-bmjopen-2020-037639/</loc>
-    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2019_12_02_10.1016_s2665_991319/</loc>
+    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2020-ezugwu-s00521-020-05395-4/</loc>
-    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2019_09_19_10.1002_ehf2.12507/</loc>
+    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2020-mihai-rheumatology/</loc>
-    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2019_08_12_10.1002_art.40906/</loc>
+    <lastmod>2019-08-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2020-thombs-j.jpsychores.2020.110132/</loc>
-    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/article-2020-sanges-s13023-020-01439-z/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/article-2020-davion-hmbci-2020-0004/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/article-2020-ledoult-s13075-020-2113-6/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/article-2020-sobanski-jcm9030864/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/article-2019-sanges-ehf2.12507/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/article-2019-becetti-jrheum.181130/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/article-2019-kwakkenbos-bmjopen-2019-029542/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/article-2019-sobanski-art.40906/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/article-2019-morbieu-j.revmed.2019.05.004/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/article-2019-farhat-j.revmed.2018.11.002/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/article-2019-lescoat-art.40799/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2019_07_13_10.1145_3319619.33233/</loc>
+    <lastmod>2019-07-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/publication/2019_04_29_10.1002_art.40799/</loc>
+    <lastmod>2019-04-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
@@ -292,127 +404,90 @@
     <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2019-harel-bmjopen-2018-024010/</loc>
-    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2018_11_02_10.3389_fimmu.2018.02/</loc>
+    <lastmod>2018-11-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/inproceedings-2019-jose_garcia-3319619.3323365/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/article-2018-fox-acr.23532/</loc>
-    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/article-2018-mills-acr.23514/</loc>
-    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/article-2018-jouvray-jamadermatol.2018.0916/</loc>
+    <loc>/publication/2018_07_01_10.1001_jamadermatol./</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2018-forestier-j.autrev.2017.10.015/</loc>
-    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2018_06_02_10.1016_j.monrhu.2018/</loc>
+    <lastmod>2018-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2018-merz-bmjopen-2017-018641/</loc>
-    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2018_05_15_10.1371_journal.pone./</loc>
+    <lastmod>2018-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2018-launay-journal.pone.0197112/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2018_03_02_10.1016_j.autrev.2017/</loc>
+    <lastmod>2018-03-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2018-sobanski-fimmu.2018.02457/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2018_01_02_10.1016_j.chest.2017./</loc>
+    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2018-hachulla-j.chest.2017.08.014/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2017_12_02_10.1186_s13075_017_14/</loc>
+    <lastmod>2017-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2017-sanges-s13075-017-1489-4/</loc>
-    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2017_09_27_10.1183_16000617.0056/</loc>
+    <lastmod>2017-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2017-launay-16000617.0056-2017/</loc>
-    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/article-2017-launay-j.revmed.2017.05.003/</loc>
+    <loc>/publication/2017_08_01_10.1371_journal.pone./</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2017-yelnik-0961203316657433/</loc>
-    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2017_02_07_10.3389_fimmu.2017.00/</loc>
+    <lastmod>2017-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2017-sanges-j.revmed.2016.02.016/</loc>
-    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2017_01_02_10.1007_978_3_319_592/</loc>
+    <lastmod>2017-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/inproceedings-2017-jose_garcia-978-3-319-59226-8_7/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2016_06_24_10.1002_art.39651/</loc>
+    <lastmod>2016-06-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2017-sanges-fimmu.2017.00053/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2016_06_08_10.1080_1744666x.2016/</loc>
+    <lastmod>2016-06-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2017-le_gouellec-journal.pone.0181692/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2016_04_02_doi.org_10.1016_j.aso/</loc>
+    <lastmod>2016-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2016-jose_garcia-j.asoc.2015.12.001/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2016_02_02_10.1007_s11926_015_05/</loc>
+    <lastmod>2016-02-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2016-sobanski-art.39432/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2016_01_25_10.1002_art.39432/</loc>
+    <lastmod>2016-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2016-sobanski-s11926-015-0560-x/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2016_01_02_10.1684_ejd.2015.2711/</loc>
+    <lastmod>2016-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2016-sobanski-1744666x.2016.1194201/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/article-2016-ledoult-ejd.2015.2711/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/article-2016-sobanski-art.39652/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/article-2015-hachulla-rheumatology/</loc>
+    <loc>/publication/2015_07_01_10.1371_journal.pone./</loc>
     <lastmod>2015-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2015-dutoit_lefevre-journal.pone.0132142/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2014_09_02_10.1016_j.autrev.2014/</loc>
+    <lastmod>2014-09-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2015-derrett_smith-rheumatology/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2014_01_27_10.1002_art.38219/</loc>
+    <lastmod>2014-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2015-jose_garcia-exsy.12113/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2013_10_18_10.1371_journal.pone./</loc>
+    <lastmod>2013-10-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2014-sobanski-annrheumdis-2014-eular.4495/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2013_08_26_10.1002_art.38029/</loc>
+    <lastmod>2013-08-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2014-sanges-fimmu.2017.00053/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2013_05_15_10.1164_rccm.201209_1/</loc>
+    <lastmod>2013-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2014-sobanski-art.38219/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2013_03_19_10.1371_journal.pone./</loc>
+    <lastmod>2013-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2014-le_gouellec-annrheumdis-2014-eular.3866/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2012_09_02_10.1109_iceee.2012.64/</loc>
+    <lastmod>2012-09-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2014-lanteri-j.autrev.2014.07.003/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2011_01_02_http___dx.doi.org_10./</loc>
+    <lastmod>2011-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/article-2013-sobanski-annrheumdis-2013-eular.1947/</loc>
-    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/article-2013-launay-journal.pone.0059327/</loc>
-    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/article-2013-lynch-annrheumdis-2013-eular.822/</loc>
-    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/article-2013-sivova-journal.pone.0078001/</loc>
-    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/article-2013-sobanski-rccm.201209-1635le/</loc>
-    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/article-2013-lefevre-art.38029/</loc>
-    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/inproceedings-2012-jose_garcia-iceee.2012.6421192/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2011_01_02_10.1007_978_3_642_247/</loc>
+    <lastmod>2011-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/gabriel/</loc>
+  </url><url>
+    <loc>/authors/zaineb/</loc>
   </url><url>
     <loc>/categories/</loc>
   </url>
