@@ -37,11 +37,45 @@
     </item>
     
     <item>
+      <title>Immunoglobulins G from Patients with Systemic Sclerosis Modify the Molecular Signatures of Endothelial Cells</title>
+      <link>/publication_old/2025_01_02_10.1136_rmdopen_2024_/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/publication_old/2025_01_02_10.1136_rmdopen_2024_/</guid>
+      <description>&lt;pre&gt;&lt;code&gt;                Objective
+                Antinuclear antibodies (ANA) are powerful biomarkers in systemic sclerosis (SSc). Functional antibodies (FA) might be implicated in vasculopathy, in which endothelial cells (EC) are key players. We aimed to explore the effect of purified IgG from patients with SSc on omics signatures of EC and examine the influence of ANA serotypes and FA.
+              
+              
+                Methods
+                EC were cultured in the presence of purified IgG from patients with SSc, patients with systemic lupus erythematosus (SLE) or healthy controls (HC). EC omics profiles were analysed by liquid chromatography with tandem mass spectrometry (LC-MS/MS) and RNA sequencing. EC proteome induced by IgG from patients with SSc was confirmed with an external validation cohort.
+              
+              
+                Results
+                In the derivation cohort, principal component analysis (PCA) using proteomics data showed three distinct groups of subjects: a first one including mostly anti-topoisomerase-I positive patients (ATA+), a second one including mostly anti-centromere positive patients and a third group comprising anti-RNA polymerase-III positive patients, SLE and HC. In transcriptomics, PCA distinguished one group composed of ATA+patients only from a second group mixing ATA+patients with other individuals. The validation cohort confirmed the existence of two groups of distinct EC proteome profiles and clinical severity in ATA+patients. In both SSc cohorts, no association between FA presence and proteomic profiles was observed. Quantitative proteomics measured the most discriminant proteins in EC exposed to purified IgG.
+              
+              
+                Conclusion
+                Purified IgG from patients with SSc can modify EC proteome and transcriptome. The observed changes closely associate with ANA serotype.
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Analysis of Unfolded Protein Response Activation in Colon Adenocarcinoma Epithelial Cells: A Proteomic Study</title>
       <link>/publication/2024_09_03_10.1002_prca.20240000/</link>
       <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
       
       <guid>/publication/2024_09_03_10.1002_prca.20240000/</guid>
+      <description>&lt;p&gt;PurposeHigh throughput technologies have identified molecular patterns in colorectal cancer (CRC) cells, aiding in modeling responses to anti‐cancer treatments. The different responses observed depend on the type of cancer, the tumour grade and the functional programme of the cancer cells. Recent studies suggest that the unfolded protein response (UPR), autophagy and apoptosis could be involved in treatment resistance mechanisms by interacting with the tumour microenvironment (TME).Experimental DesignWe analysed by LC‐MS/MS the proteome of two representative colon adenocarcinoma epithelial cell lines from different tumour grades (CCL‐233 and CCL‐221) at the basal state or after the UPR induction.ResultsCell lines expressed a different proteome on about 10% of their total proteins identified, especially on UPR, autophagy and apoptosis pathways proteins at basal state. After UPR induction, the proteome of the cells was modified with a greater adaptive response to cellular stress in CCL‐221 cells where the UPR was strongly activated at the basal state.Conclusions and Clinical RelevanceCRC cell lines at different tumour grades expressed different functional programmes at the proteomic level and were characterised by different responses to the UPR induction. This study suggests that baseline cancer cell stress status could have an impact on the efficiency of cancer therapies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analysis of Unfolded Protein Response Activation in Colon Adenocarcinoma Epithelial Cells: A Proteomic Study</title>
+      <link>/publication_old/2024_09_03_10.1002_prca.20240000/</link>
+      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/publication_old/2024_09_03_10.1002_prca.20240000/</guid>
       <description>&lt;p&gt;PurposeHigh throughput technologies have identified molecular patterns in colorectal cancer (CRC) cells, aiding in modeling responses to anti‐cancer treatments. The different responses observed depend on the type of cancer, the tumour grade and the functional programme of the cancer cells. Recent studies suggest that the unfolded protein response (UPR), autophagy and apoptosis could be involved in treatment resistance mechanisms by interacting with the tumour microenvironment (TME).Experimental DesignWe analysed by LC‐MS/MS the proteome of two representative colon adenocarcinoma epithelial cell lines from different tumour grades (CCL‐233 and CCL‐221) at the basal state or after the UPR induction.ResultsCell lines expressed a different proteome on about 10% of their total proteins identified, especially on UPR, autophagy and apoptosis pathways proteins at basal state. After UPR induction, the proteome of the cells was modified with a greater adaptive response to cellular stress in CCL‐221 cells where the UPR was strongly activated at the basal state.Conclusions and Clinical RelevanceCRC cell lines at different tumour grades expressed different functional programmes at the proteomic level and were characterised by different responses to the UPR induction. This study suggests that baseline cancer cell stress status could have an impact on the efficiency of cancer therapies.&lt;/p&gt;
 </description>
     </item>
@@ -56,11 +90,30 @@
     </item>
     
     <item>
+      <title>Comparative Analysis of Laboratory-Scale Immunoglobulin G Purification Methods from Human Serum</title>
+      <link>/publication_old/2024_08_14_10.1021_acs.jproteome/</link>
+      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/publication_old/2024_08_14_10.1021_acs.jproteome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Simple gene signature to assess murine fibroblast polarization</title>
       <link>/publication/2022_07_11_10.1038_s41598_022_15/</link>
       <pubDate>Mon, 11 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>/publication/2022_07_11_10.1038_s41598_022_15/</guid>
+      <description>&lt;p&gt;AbstractWe provide an original multi-stage approach identifying a gene signature to assess murine fibroblast polarization. Prototypic polarizations (inflammatory/fibrotic) were induced by seeded mouse embryonic fibroblasts (MEFs) with TNFα or TGFß1, respectively. The transcriptomic and proteomic profiles were obtained by RNA microarray and LC-MS/MS. Gene Ontology and pathways analysis were performed among the differentially expressed genes (DEGs) and proteins (DEPs). Balb/c mice underwent daily intradermal injections of HOCl (or PBS) as an experimental murine model of inflammation-mediated fibrosis in a time-dependent manner. As results, 1456 and 2215 DEGs, and 289 and 233 DEPs were respectively found in MEFs in response to TNFα or TGFß1, respectivelyjats:italic.jats:italic Among the most significant pathways, we combined 26 representative genes to encompass the proinflammatory and profibrotic polarizations of fibroblasts. Based on principal component analysis, this signature deciphered baseline state, proinflammatory polarization, and profibrotic polarization as accurately as RNA microarray and LC-MS/MS did. Then, we assessed the gene signature on dermal fibroblasts isolated from the experimental murine model. We observed a proinflammatory polarization at day 7, and a mixture of a proinflammatory and profibrotic polarizations at day 42 in line with histological findings. Our approach provides a small-size and convenient gene signature to assess murine fibroblast polarization.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Simple gene signature to assess murine fibroblast polarization</title>
+      <link>/publication_old/2022_07_11_10.1038_s41598_022_15/</link>
+      <pubDate>Mon, 11 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication_old/2022_07_11_10.1038_s41598_022_15/</guid>
       <description>&lt;p&gt;AbstractWe provide an original multi-stage approach identifying a gene signature to assess murine fibroblast polarization. Prototypic polarizations (inflammatory/fibrotic) were induced by seeded mouse embryonic fibroblasts (MEFs) with TNFα or TGFß1, respectively. The transcriptomic and proteomic profiles were obtained by RNA microarray and LC-MS/MS. Gene Ontology and pathways analysis were performed among the differentially expressed genes (DEGs) and proteins (DEPs). Balb/c mice underwent daily intradermal injections of HOCl (or PBS) as an experimental murine model of inflammation-mediated fibrosis in a time-dependent manner. As results, 1456 and 2215 DEGs, and 289 and 233 DEPs were respectively found in MEFs in response to TNFα or TGFß1, respectivelyjats:italic.jats:italic Among the most significant pathways, we combined 26 representative genes to encompass the proinflammatory and profibrotic polarizations of fibroblasts. Based on principal component analysis, this signature deciphered baseline state, proinflammatory polarization, and profibrotic polarization as accurately as RNA microarray and LC-MS/MS did. Then, we assessed the gene signature on dermal fibroblasts isolated from the experimental murine model. We observed a proinflammatory polarization at day 7, and a mixture of a proinflammatory and profibrotic polarizations at day 42 in line with histological findings. Our approach provides a small-size and convenient gene signature to assess murine fibroblast polarization.&lt;/p&gt;
 </description>
     </item>
@@ -76,11 +129,31 @@
     </item>
     
     <item>
+      <title>Effects of Immunoglobulins G From Systemic Sclerosis Patients in Normal Dermal Fibroblasts: A Multi-Omics Study</title>
+      <link>/publication_old/2022_06_29_10.3389_fimmu.2022.90/</link>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication_old/2022_06_29_10.3389_fimmu.2022.90/</guid>
+      <description>&lt;p&gt;Autoantibodies (Aabs) are frequent in systemic sclerosis (SSc). Although recognized as potent biomarkers, their pathogenic role is debated. This study explored the effect of purified immunoglobulin G (IgG) from SSc patients on protein and mRNA expression of dermal fibroblasts (FBs) using an innovative multi-omics approach. Dermal FBs were cultured in the presence of sera or purified IgG from patients with diffuse cutaneous SSc (dcSSc), limited cutaneous SSc or healthy controls (HCs). The FB proteome and transcriptome were explored using liquid chromatography coupled with tandem mass spectrometry (LC-MS/MS) and microarray assays, respectively. Proteomic analysis identified 3,310 proteins. SSc sera and purified IgG induced singular protein profile patterns. These FB proteome changes depended on the Aab serotype, with a singular effect observed with purified IgG from anti-topoisomerase-I autoantibody (ATA) positive patients compared to HC or other SSc serotypes. IgG from ATA positive SSc patients induced enrichment in proteins involved in focal adhesion, cadherin binding, cytosolic part, or lytic vacuole. Multi-omics analysis was performed in two ways: first by restricting the analysis of the transcriptomic data to differentially expressed proteins; and secondly, by performing a global statistical analysis integrating proteomics and transcriptomics. Transcriptomic analysis distinguished 764 differentially expressed genes and revealed that IgG from dcSSc can induce extracellular matrix (ECM) remodeling changes in gene expression profiles in FB. Global statistical analysis integrating proteomics and transcriptomics confirmed that IgG from SSc can induce ECM remodeling and activate FB profiles. This effect depended on the serotype of the patient, suggesting that SSc Aab might play a pathogenic role in some SSc subsets.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Passages in culture and stimulation conditions influence protein expression of primary fibroblasts</title>
       <link>/publication/2021_11_02_10.1002_pmic.20210011/</link>
       <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>/publication/2021_11_02_10.1002_pmic.20210011/</guid>
+      <description>&lt;p&gt;AbstractFibroblasts (Fb) are key effector cells in systemic sclerosis (SSc). Fb stimulation with transforming growth factor beta 1 (TGF‐β1) is considered as a positive control in studies assessing fibrogenesis. The lack of standardization of TGF‐β1 stimulation might be responsible for discrepancies in experiments performed in different conditions. Using quantitative proteomics analysis, we evaluated the impact of changes in experimental conditions on proteomic profiles of primary Fb. Principal component analysis (PCA) identified several groups of differentially expressed proteins influenced by cell passage, culture medium, and both concentration and duration of exposure to TGF‐β1 stimulation. Bioinformatics analysis revealed that late passages expressed proteins involved in senescence. TGF‐β1 concentration and time of stimulation were correlated with the expression of proteins involved in the fibrogenesis and inflammatory processes. These data underline the need for standardization of culture conditions to allow inter‐data comparisons in future in vitro studies, especially when using “omics” approaches.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Passages in culture and stimulation conditions influence protein expression of primary fibroblasts</title>
+      <link>/publication_old/2021_11_02_10.1002_pmic.20210011/</link>
+      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication_old/2021_11_02_10.1002_pmic.20210011/</guid>
       <description>&lt;p&gt;AbstractFibroblasts (Fb) are key effector cells in systemic sclerosis (SSc). Fb stimulation with transforming growth factor beta 1 (TGF‐β1) is considered as a positive control in studies assessing fibrogenesis. The lack of standardization of TGF‐β1 stimulation might be responsible for discrepancies in experiments performed in different conditions. Using quantitative proteomics analysis, we evaluated the impact of changes in experimental conditions on proteomic profiles of primary Fb. Principal component analysis (PCA) identified several groups of differentially expressed proteins influenced by cell passage, culture medium, and both concentration and duration of exposure to TGF‐β1 stimulation. Bioinformatics analysis revealed that late passages expressed proteins involved in senescence. TGF‐β1 concentration and time of stimulation were correlated with the expression of proteins involved in the fibrogenesis and inflammatory processes. These data underline the need for standardization of culture conditions to allow inter‐data comparisons in future in vitro studies, especially when using “omics” approaches.&lt;/p&gt;
 </description>
     </item>

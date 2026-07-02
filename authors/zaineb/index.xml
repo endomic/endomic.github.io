@@ -7,9 +7,1078 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Thu, 02 Jul 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/zaineb/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Rethinking fairness in unsupervised healthcare AI: A methodological scoping review</title>
+      <link>/publication/2026_07_02_10.1016_j.jbi.2026.10/</link>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2026_07_02_10.1016_j.jbi.2026.10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hiring a Senior Researcher in AI for Health</title>
+      <link>/talk/cpj_hiring/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/cpj_hiring/</guid>
+      <description>&lt;h2 id=&#34;we-are-recruiting-a-senior-researcher-in-ai-for-health&#34;&gt;We are recruiting a Senior Researcher in AI for Health&lt;/h2&gt;
+&lt;p&gt;Within the ENDOMIC-AI project, we are preparing the recruitment of a senior researcher through a Junior Professor Chair (CPJ) at the Inria Centre at the University of Lille.&lt;/p&gt;
+&lt;p&gt;This chair will focus on developing new artificial intelligence approaches to improve our understanding of chronic inflammatory diseases and support more personalised medicine. Our goal is to identify robust patient profiles - or endotypes - using heterogeneous, multimodal and longitudinal health data, including clinical and biological data, imaging, omics data and electronic health records.&lt;/p&gt;
+&lt;p&gt;We are looking for a researcher with expertise in multimodal AI, statistical learning or applied mathematics, with a strong interest in explainable, robust, generalisable and fair AI methods. The successful candidate will join a highly interdisciplinary environment bringing together Inria, the University of Lille, Lille University Hospital and Inserm, particularly through the ENDOMIC initiative and its access to health-data infrastructures, biobanks, omics platforms and imaging facilities.&lt;/p&gt;
+&lt;p&gt;Beyond research, the chair holder will contribute to training in digital health at the intersection of artificial intelligence, data science, medicine and biology. We also expect the recruited researcher to help strengthen national and international collaborations, promote open science, and support the dissemination of research outcomes to the scientific community, healthcare professionals, patients and the wider public.&lt;/p&gt;
+&lt;p&gt;Further information on Junior Professor Chairs and application procedures is available on the Inria recruitment website: &lt;a href=&#34;https://www.inria.fr/fr/chaires-professeur-junior-recrutement-emploi&#34;&gt;Junior Professor Chairs at Inria&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fair and Privacy-Preserving Synthetic Data Generation via Clustering-Based Variational Autoencoder and Adversarially Debiased Wasserstein Generative Adversarial Networks with Gradient Penalty</title>
+      <link>/publication/2025_10_04_10.1007_978_3_032_059/</link>
+      <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2025_10_04_10.1007_978_3_032_059/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From vibe coding to vibe caring: what clinicians can learn</title>
+      <link>/publication/2025_10_02_10.1016_s0140_673625/</link>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2025_10_02_10.1016_s0140_673625/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thunder</title>
+      <link>/project/thunder/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/project/thunder/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Machine learning&lt;/em&gt; (ML) offers transformative opportunities for healthcare, with applications ranging from precision medicine to operational optimization. However, progress is constrained by limited access to diverse, high-quality datasets, exacerbated by fragmentation, data scarcity, and stringent privacy regulations. Traditional data augmentation methods fail to fully capture the complexity and heterogeneity of healthcare data. &lt;em&gt;Generative AI&lt;/em&gt;, particularly large language models (LLMs), offers a promising alternative by synthesizing realistic datasets while addressing data scarcity. Yet, their adoption in healthcare is hindered by critical concerns about trustworthiness, including semantic validity, fairness, bias mitigation, fidelity, privacy preservation, and real-world utility. This research identifies key gaps in developing trustworthy generative models and ML methods for healthcare. These include the absence of standardized synthetic data evaluation frameworks, trust deficits in healthcare generative models, resource intensiveness, and design-induced opaqueness. The overall objective of the &lt;a href=&#34;https://thunder-msca-se.univ-lille.fr/&#34;&gt;THUNDER&lt;/a&gt; project is to forge a comprehensive framework for trustworthy and responsible &lt;em&gt;generative AI&lt;/em&gt; in healthcare. This will be achieved by defining (i) standardized evaluation metrics, (ii) developing advanced knowledge-guided generative models, and (iii) creating a fully frugal-by-design and interpretable-by-design learning models. These efforts, driven by interdisciplinary and intersectoral mobility and knowledge exchange, will establish a new paradigm for AI-driven healthcare. We will target Sepsis as a global health priority identified by the World Health Organization (WHO).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Multi-objective Multi-agent Interactive Deep Reinforcement Learning Approach for Feature Selection</title>
+      <link>/publication/2025_01_02_10.1007_978_981_96_69/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2025_01_02_10.1007_978_981_96_69/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Class of Intelligible Models for Tabular Learning</title>
+      <link>/publication/2025_01_02_10.1007_978_3_031_746/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2025_01_02_10.1007_978_3_031_746/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safety of Fertility Treatments in Women With Systemic Lupus Erythematosus: Data From a Prospective Population‐Based Study</title>
+      <link>/publication/2024_12_19_10.1111_1471_0528.180/</link>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2024_12_19_10.1111_1471_0528.180/</guid>
+      <description>&lt;pre&gt;&lt;code&gt;                Objective
+                To assess safety of fertility treatments in women with systemic lupus erythematosus (SLE).
+              
+              
+                Design
+                Data from the multicentre French observational GR2 (Groupe de Recherche sur la Grossesse et les Maladies Rares) study (2014‐ongoing).
+              
+              
+                Setting
+                Seventy‐six centres in France.
+              
+              
+                Population
+                All pregnancies in women with SLE enrolled in the GR2 study, conceived before 1 August 2022, with available end‐of‐pregnancy data and known conception type, were included; that is, 577 spontaneous and 53 assisted pregnancies.
+              
+              
+                Methods
+                A comparative analysis of spontaneous and assisted pregnancies was conducted. Logistic regression was used to determine if fertility treatments were independently associated with live birth prognosis, adjusting for confounders (e.g., maternal age). Kaplan–Meier analysis compared cumulative incidences of disease flares and adverse pregnancy outcomes (APOs), with confounding factors adjusted using a Cox regression model.
+              
+              
+                Main Outcome Measures
+                Live birth, disease flares, and APOs.
+              
+              
+                Results
+                
+                  The mean age was older (35.8 vs. 32.3 years,
+                  jats:italicpjats:italic
+                   &amp;amp;lt; 1 × 10
+                  jats:sup−4jats:sup
+                  ), and twins were more frequent in assisted pregnancies (5/50, 10.0% vs. 20/554, 3.6%;
+                  jats:italicpjats:italic
+                   = 0.047). Lupus disease was clinically inactive at baseline in 51 (96.2%) assisted pregnancies (vs.
+                  jats:italicnjats:italic
+                   = 511, 89.6%;
+                  jats:italicpjats:italic
+                   = 0.15), with 35 of 45 (77.8%) having no chronic damage (vs. 448/513, 87.3%;
+                  jats:italicpjats:italic
+                   = 0.07). The live birth rate was similar between assisted and spontaneous pregnancies (
+                  jats:italicnjats:italic
+                   = 46, 86.8% vs.
+                  jats:italicnjats:italic
+                   = 505, 87.5%;
+                  jats:italicpjats:italic
+                   = 0.83), with no statistical difference in the incidence of lupus flares and APOs. These results remained consistent after adjusting for confounding factors.
+                
+              
+              
+                Conclusions
+                Fertility treatments in women with mostly well‐controlled SLE did not appear to increase risks of maternal and neonatal complications, supporting current recommendations.
+                Trial Registration
+                
+                  jats:ext-link xmlns:xlink=\&amp;quot;http://www.w3.org/1999/xlink\&amp;quot; xlink:href=\&amp;quot;http://clinicaltrial.gov\&amp;quot;ClinicalTrials.govjats:ext-link
+                  identifier: NCT02450396
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evaluation of the Coping Strategies Questionnaire-Revised for fatigue in systemic sclerosis: a Scleroderma Patient-centred Intervention Network (SPIN) cohort study</title>
+      <link>/publication/2024_11_10_10.55563_clinexprheum/</link>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2024_11_10_10.55563_clinexprheum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimal Detectable Changes of the Health Assessment Questionnaire–Disability Index, Patient‐Reported Outcomes Measurement Information System‐29 Profile Version 2.0 Domains, and Patient Health Questionnaire‐8 in People With Systemic Sclerosis: A Scleroderma Patient‐Centered Intervention Network Cohort Cross‐Sectional Study</title>
+      <link>/publication/2024_08_27_10.1002_acr.25397/</link>
+      <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2024_08_27_10.1002_acr.25397/</guid>
+      <description>&lt;p&gt;ObjectiveSystemic sclerosis (SSc) is a rare, chronic autoimmune disorder associated with disability, diminished physical function, fatigue, pain, and mental health concerns. We assessed minimal detectable changes (MDCs) of the Health Assessment Questionnaire–Disability Index (HAQ‐DI), Patient‐Reported Outcomes Measurement Information System‐29 Profile version 2.0 (PROMIS‐29v2.0) domains, and Patient Health Questionnaire (PHQ)‐8 in people with SSc.MethodsScleroderma Patient‐Centered Intervention Network Cohort participants completed the HAQ‐DI, PROMIS‐29v2.0 domains, and PHQ‐8 at baseline assessments from April 2014 until August 2023. We estimated MDC95 (smallest change that can be detected with 95% certainty) and MDC90 (smallest change that can be detected with 90% certainty) with 95% confidence intervals (CIs) generated via the percentile bootstrapping method resampling 1,000 times. We compared MDC estimates by age, sex, and SSc subtype.ResultsA total of 2,571 participants were included. Most were female (n = 2,241; 87%), and 38% (n = 976) had diffuse SSc. Mean (±SD) age was 54.9 (±12.7) years and duration since onset of first non‐Raynaud phenomenon symptom was 10.8 (±8.7) years. MDC95 estimate was 0.41 points (95% CI 0.40–0.42) for the HAQ‐DI, between 4.88 points (95% CI 4.72–5.05) and 9.02 points (95% CI 8.80–9.23) for the seven PROMIS‐29v2.0 domains, and 5.16 points (95% CI 5.06–5.26) for the PHQ‐8. MDC95 estimates were not materially different across subgroups.ConclusionMDC95 and MDC90 estimates were precise and similar across age, sex, and SSc subtype groups. HAQ‐DI MDC95 and MDC90 were substantially larger than previous estimates of HAQ‐DI minimal important difference from several small studies. Minimally important differences of all measures should be evaluated in large studies using anchor‐based methods.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Étude HYPNOSTRESS : intérêt de l’hypnose médicale dans l’évaluation du stress ressenti et le vécu d’une hospitalisation dans un service de médecine interne</title>
+      <link>/publication/2024_08_02_10.1016_j.revmed.2024/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2024_08_02_10.1016_j.revmed.2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Corticosteroid sensitivity detection in sepsis patients using a personalized data mining approach: A clinical investigation</title>
+      <link>/publication/2024_03_02_10.1016_j.cmpb.2024.1/</link>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2024_03_02_10.1016_j.cmpb.2024.1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Factors associated with satisfaction with social roles and activities among people with systemic sclerosis: a Scleroderma Patient-centered Intervention Network (SPIN) cohort cross-sectional study</title>
+      <link>/publication/2024_02_02_10.1136_rmdopen_2023_/</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2024_02_02_10.1136_rmdopen_2023_/</guid>
+      <description>&lt;pre&gt;&lt;code&gt;                    Objective
+                    The objectives were to (1) compare satisfaction with social roles
+                        and activities in a large multinational systemic sclerosis (SSc) cohort
+                        to general population normative data and (2) identify sociodemographic,
+                        lifestyle and SSc disease factors associated with satisfaction with
+                        social roles and activities.
+                
+                
+                    Methods
+                    Participants in the Scleroderma Patient-centered Intervention
+                        Network Cohort completed the Patient Reported Outcomes Information
+                        System Version 2 satisfaction with social roles and activities domain
+                        questionnaire. Multivariable regression was used to assess associations
+                        with sociodemographic, lifestyle and disease factors.
+                
+                
+                    Results
+                    Among 2385 participants, mean satisfaction with social roles and
+                        activities T-score (48.1, SD=9.9) was slightly lower than the US general
+                        population (mean=50, SD=10). Factors independently associated with
+                        satisfaction were years of education (0.54 per SD, 95% CI 0.14 to 0.93);
+                        non-White race or ethnicity (−1.13, 95% CI −2.18 to –0.08); living in
+                        Canada (−1.33, 95% CI −2.40 to –0.26 (reference USA)) or the UK (−2.49,
+                        95% CI −3.92 to –1.06); body mass index (−1.08 per SD, 95% CI −1.47 to
+                        –0.69); gastrointestinal involvement (−3.16, 95% CI −4.27 to –2.05);
+                        digital ulcers (−1.90, 95% CI −3.05 to –0.76); moderate (−1.62, 95% CI
+                        −2.78 to –0.45) or severe (−2.26, 95% CI −3.99 to –0.52) small joint
+                        contractures; interstitial lung disease (−1.11, 95% CI −1.97 to –0.25);
+                        pulmonary arterial hypertension (−2.69, 95% CI −4.08 to –1.30);
+                        rheumatoid arthritis (−2.51, 95% CI −4.28 to –0.73); and Sjogren’s
+                        syndrome (−2.42, 95% CI −3.96 to –0.88).
+                
+                
+                    Conclusion
+                    Mean satisfaction with social roles and activities is slightly lower
+                        in SSc than the general population and associated with multiple
+                        sociodemographic and disease factors.
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pulmonary hypertension in connective tissue diseases: What every CTD specialist should know – but is afraid to ask!</title>
+      <link>/publication/2024_01_02_10.1016_j.revmed.2023/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2024_01_02_10.1016_j.revmed.2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Création d’une base de données concernant la prise en charge des toxidermies en milieu hospitalier entre 2010 et 2020 à partir d’un entrepôt de données de santé</title>
+      <link>/publication/2023_12_02_10.1016_j.fander.2023/</link>
+      <pubDate>Sat, 02 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2023_12_02_10.1016_j.fander.2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential Item Functioning on the Cochin Hand Function Scale Among People With Systemic Sclerosis by Language, Sex, and Disease Subtype: A Scleroderma &lt;scp&gt;Patient‐Centered&lt;/scp&gt; Intervention Network (&lt;scp&gt;SPIN&lt;/scp&gt;) Cohort Study</title>
+      <link>/publication/2023_11_20_10.1002_acr.25199/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2023_11_20_10.1002_acr.25199/</guid>
+      <description>&lt;p&gt;ObjectiveTo evaluate the degree that the Cochin Hand Function Scale (CHFS) generates scores that are comparable across language, sex, and disease subtype.MethodsWe included participants enrolled in the Scleroderma Patient‐centered Intervention Network (SPIN) Cohort who completed the CHFS at their baseline assessment between April 2014 and September 2020. Confirmatory factor analysis (CFA) was used to test unidimensionality, and multiple indicator multiple cause (MIMIC) models were used for differential item functioning (DIF) analysis based on language, sex, and disease subtype. Both intraclass correlation coefficient (ICC) and Pearson&amp;rsquo;s correlation were calculated using factor scores obtained from unadjusted and DIF‐adjusted MIMIC models to evaluate agreement and correlation between scores.ResultsA total of 2,155 participants were included. CFA with covarying error terms supported a good fit of the model (χjats:sup2jats:sup[127] = 1,754.671; jats:italicPjats:italic &amp;lt; 0.001; Tucker‐Lewis index = 0.985; comparative fit index = 0.987; root mean square error of approximation = 0.077). Nine items displayed statistically significant DIF for language of administration, 10 items for sex, and 10 items for disease subtype. However, the overall impact of DIF was negligible when comparing factor scores that did and did not account for DIF (ICC = 0.999; r = 0.999).ConclusionThe CHFS has score comparability in systemic sclerosis regardless of participants’ language, sex, and disease subtype.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Atteintes coronariennes et artérite a cellules géantes : à propos de 2 cas et revue de la littérature</title>
+      <link>/publication/2023_08_02_10.1016_j.revmed.2023/</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2023_08_02_10.1016_j.revmed.2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validity, Reliability, and Differential Item Functioning of English and French Versions of the &lt;scp&gt;10‐Item Connor‐Davidson&lt;/scp&gt; Resilience Scale in Systemic Sclerosis: A Scleroderma &lt;scp&gt;Patient‐Centered&lt;/scp&gt; Intervention Network Cohort Study</title>
+      <link>/publication/2023_06_07_10.1002_acr.25139/</link>
+      <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2023_06_07_10.1002_acr.25139/</guid>
+      <description>&lt;p&gt;ObjectiveSome individuals with systemic sclerosis (SSc) report positive mental health, despite severe disease manifestations, which may be associated with resilience, but no resilience measure has been validated in SSc. This study was undertaken to assess the validity, reliability, and differential item functioning (DIF) between English‐ and French‐language versions of the 10‐item Connor‐Davidson Resilience Scale (CD‐RISC‐10) in SSc.MethodsEligible participants were enrolled in the Scleroderma Patient‐centered Intervention Network Cohort and completed the CD‐RISC‐10 between August 2022 and January 2023. We used confirmatory factor analysis (CFA) to evaluate the CD‐RISC‐10 factor structure and conducted DIF analysis across languages with Multiple Indicators Multiple Causes models. We tested convergent validity with another measure of resilience and measures of self‐esteem and depression and anxiety symptoms. We assessed internal consistency and test–retest reliability using Cronbach&amp;rsquo;s alpha and intraclass correlation coefficient (ICC).ResultsA total of 962 participants were included in this analysis. CFA supported a single‐factor structure (Tucker–Lewis index = 0.99, comparative fit index = 0.99, root mean square error of approximation = 0.08 [90% confidence interval (90% CI) 0.07, 0.09]). We found no meaningful DIF. Internal consistency was high (α = 0.93 [95% CI 0.92, 0.94]), and we found that correlations with other measures of psychological functioning were moderate to large (|r| = 0.57–0.78) and confirmed study hypotheses. The scale showed good 1–2‐week test–retest reliability (ICC 0.80 [95% CI 0.75, 0.85]) in a subsample of 230 participants.ConclusionThe CD‐RISC‐10 is a valid and reliable measure of resilience in SSc, with score comparability across English and French versions.jats:boxed-text content-type=&amp;quot;graphic&amp;quot; position=&amp;quot;anchor&amp;quot;jats:graphic xmlns:xlink=&amp;quot;http://www.w3.org/1999/xlink&amp;quot; mimetype=&amp;quot;image/png&amp;quot; position=&amp;quot;anchor&amp;quot; specific-use=&amp;quot;enlarged-web-image&amp;quot; xlink:href=&amp;quot;graphic/acr25139-toc-0001-m.png&amp;quot;jats:alt-textimagejats:alt-textjats:graphicjats:boxed-text&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>POS0166 OUTCOME OF PREGNANCY IN WOMEN WITH PRIMARY SJÖGREN’S SYNDROME COMPARED TO THE GENERAL POPULATION: THE FRENCH MULTICENTER PROSPECTIVE GR2 STUDY</title>
+      <link>/publication/2023_05_30_10.1136_annrheumdis_2/</link>
+      <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2023_05_30_10.1136_annrheumdis_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of Measurement Properties and Differential Item Functioning in the English and French Versions of the University of California, Los Angeles, Loneliness Scale‐6: A Scleroderma &lt;scp&gt;Patient‐Centered&lt;/scp&gt; Intervention Network (&lt;scp&gt;SPIN&lt;/scp&gt;) Study</title>
+      <link>/publication/2023_04_26_10.1002_acr.25115/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2023_04_26_10.1002_acr.25115/</guid>
+      <description>&lt;p&gt;ObjectiveLoneliness has been associated with poorer health‐related quality of life but has not been studied in patients with systemic sclerosis (SSc). The current study was undertaken to examine and compare the psychometric properties of the English and French versions of the University of California, Los Angeles, Loneliness Scale‐6 (ULS‐6) in patients with SSc during the COVID‐19 pandemic.MethodsThis study used baseline cross‐sectional data from 775 adults enrolled in the Scleroderma Patient‐Centered Intervention Network (SPIN) COVID‐19 Cohort. Reliability and validity of ULS‐6 scores overall and between languages were evaluated using confirmatory factor analysis (CFA), differential item functioning (DIF) through the multiple‐indicator multiple‐cause (MIMIC) model, omega/alpha calculation, and correlations of hypothesized convergent relationships.ResultsCFA for the total sample supported the single‐factor structure (comparative fit index [CFI] 0.96, standardized root mean residual [SRMR] 0.03), and all standardized factor loadings for items were large (0.60–0.86). The overall MIMIC model with language as a covariate fit well (CFI 0.94, SRMR 0.04, root mean square error of approximation 0.11). Statistically significant DIF was found for 3 items across language (βjats:subitem2jats:sub = 0.14, jats:italicPjats:italic &amp;lt; 0.001; βjats:subitem4jats:sub = –0.07, jats:italicPjats:italic = 0.01; βjats:subitem6jats:sub = 0.13, jats:italicPjats:italic &amp;lt; 0.001), but these small differences were without practical measurement implications. Analyses demonstrated high internal consistency with no language‐based convergent validity differences.ConclusionAnalyses demonstrated evidence of acceptable reliability and validity of ULS‐6 scores in English‐ and French‐speaking adults with SSc. DIF analysis supported use of the ULS‐6 to examine comparative experiences of loneliness without adjusting for language.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A qualitative interview study exploring the psychological health impacts of the SPIN-CHAT program among people with systemic sclerosis at the onset of COVID-19: perceptions of trial participants and research team members</title>
+      <link>/publication/2023_01_28_10.1080_09638288.2023/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2023_01_28_10.1080_09638288.2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mental health symptoms in scleroderma during COVID-19: a Scleroderma Patient-centred Intervention Network (SPIN) cohort longitudinal study</title>
+      <link>/publication/2023_01_12_10.55563_clinexprheum/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2023_01_12_10.55563_clinexprheum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Many-objective optimization of wireless sensor network deployment</title>
+      <link>/publication/2022_10_29_10.1007_s12065_022_00/</link>
+      <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2022_10_29_10.1007_s12065_022_00/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android malware detection as a Bi-level problem</title>
+      <link>/publication/2022_10_02_10.1016_j.cose.2022.1/</link>
+      <pubDate>Sun, 02 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2022_10_02_10.1016_j.cose.2022.1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The impact of the multi-variant remote work model on knowledge management in enterprises. Applied tools.</title>
+      <link>/publication/2022_09_26_10.15439_2022f26/</link>
+      <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2022_09_26_10.15439_2022f26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a Granular Computing Framework for Multiple Aspect Trajectory Representation and Privacy Preservation: Research Challenges and Opportunities</title>
+      <link>/publication/2022_09_26_10.15439_2022f282/</link>
+      <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2022_09_26_10.15439_2022f282/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OP0096 CAN IMMUNOGLOBULINS G FROM SYSTEMIC SCLEROSIS PATIENTS INFLUENCE THE SECRETOME OF DERMAL FIBROBLASTS?</title>
+      <link>/publication/2022_06_02_10.1136_annrheumdis_2/</link>
+      <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2022_06_02_10.1136_annrheumdis_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Barriers and Facilitators to Physical Activity for People With Scleroderma: A Scleroderma Patient‐Centered Intervention Network Cohort Study</title>
+      <link>/publication/2022_05_11_10.1002_acr.24567/</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2022_05_11_10.1002_acr.24567/</guid>
+      <description>&lt;p&gt;ObjectiveTo support physical activity among people with systemic sclerosis (SSc [scleroderma]), we sought to determine the prevalence and importance of barriers and the likelihood of using possible facilitators.MethodsWe invited 1,707 participants from an international SSc cohort to rate the importance of 20 barriers (14 medical, 4 social or personal, 1 lifestyle, and 1 environmental) and the likelihood of using 91 corresponding barrier‐specific and 12 general facilitators.ResultsAmong 721 respondents, 13 barriers were experienced by ≥25% of participants, including 2 barriers (fatigue and Raynaud&amp;rsquo;s phenomenon) rated “important” or “very important” by ≥50% of participants, 7 barriers (joint stiffness and contractures, shortness of breath, gastrointestinal problems, difficulty grasping, pain, muscle weakness and mobility limitations, and low motivation) by 26–50%, and 4 barriers by &amp;lt;26%. Overall, 23 of 103 facilitators (18 medical‐related) were rated by ≥75% of participants as “likely” or “very likely” to use among those who experienced corresponding barriers. These facilitators focused on adapting exercise (e.g., using controlled, slow movement), taking care of one&amp;rsquo;s body (e.g., stretching), keeping warm (e.g., wearing gloves), and protecting skin (e.g., covering ulcers). Among those participants who had previously tried the facilitator, all facilitators were rated by ≥50% as “likely” or “very likely” to use. Among those participants with the barrier who had not tried the facilitator, only 12 of 103 facilitators were rated by &amp;gt;50% of participants as “likely” or “very likely” to use.ConclusionMedical‐related physical activity barriers were common and considered important. Facilitators considered as most likely to be used involved adapting exercise, taking care of one&amp;rsquo;s body, keeping warm, and protecting skin.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Effects of COVID-19 pandemic on education and society</title>
+      <link>/publication/2022_01_02_10.3934_steme.2022013/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2022_01_02_10.3934_steme.2022013/</guid>
+      <description>&lt;p&gt;xml:lang=&amp;quot;fr&amp;quot;&amp;lt;p style=&amp;quot;text-indent:20px;&amp;quot;&amp;gt;This paper sheds light on the impact of the COVID-19 pandemic on society and the surrounding environment, with a special focus on education and the social aspect. Specifically, how the pandemic has disrupted education systems across the globe by forcing the closure of primary and secondary schools, colleges and universities is discussed. Since it is not only the students who were affected by this worldwide health emergency, the impact on educators and parents, as well as all aspects of the education system, including admissions, assessments and evaluations, is also debated. These facets are discussed while emphasizing the shifts that many organizations underwent to maintain operations while adhering to the announced governmental restrictions related to the circulation of the pandemic. Specifically, the needs to rapidly implement significant modifications to their usual practices and standard operational processes and convert their existing teaching materials to another format to make them appropriate for online delivery are highlighted and discussed.&amp;lt;/p&amp;gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Téloméropathies de recrutement hématologique : étude de 15 cas</title>
+      <link>/publication/2022_01_02_10.1016_j.revmed.2021/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2022_01_02_10.1016_j.revmed.2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact de l’angiœdème héréditaire sur les activités de la vie quotidienne, la sphère émotionnelle et la qualité de vie des patients</title>
+      <link>/publication/2021_09_02_10.1016_j.revmed.2021/</link>
+      <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2021_09_02_10.1016_j.revmed.2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Factors associated with COVID-19-related death in people with rheumatic diseases: results from the COVID-19 Global Rheumatology Alliance physician-reported registry</title>
+      <link>/publication/2021_07_02_10.1136_annrheumdis_2/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2021_07_02_10.1136_annrheumdis_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biological computation and computational biology: survey, challenges, and discussion</title>
+      <link>/publication/2021_01_27_10.1007_s10462_020_09/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2021_01_27_10.1007_s10462_020_09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malware Detection Using Rough Set Based Evolutionary Optimization</title>
+      <link>/publication/2021_01_02_10.1007_978_3_030_923/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2021_01_02_10.1007_978_3_030_923/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Évaluation de l’incidence des connectivites au cours du suivi des pneumopathies interstitielles avec signes d’auto-immunité : une étude de cohorte multicentrique nationale</title>
+      <link>/publication/2020_12_02_10.1016_j.revmed.2020/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2020_12_02_10.1016_j.revmed.2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing differential item functioning for the Social Appearance Anxiety Scale: a Scleroderma Patient-centred Intervention Network (SPIN) Cohort Study</title>
+      <link>/publication/2020_10_02_10.1136_bmjopen_2020_/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2020_10_02_10.1136_bmjopen_2020_/</guid>
+      <description>&lt;pre&gt;&lt;code&gt;                Objectives
+                The Social Appearance Anxiety Scale (SAAS) is a 16-item questionnaire developed to evaluate fear of appearance-based evaluation by others. The primary objective of this research was to investigate the existence of differential item functioning (DIF) for the 16 SAAS items, comparing patients who completed the SAAS in English and French, either to confirm that scores are comparable or provide guidance on calculating comparable scores. A secondary research objective was to investigate the existence of DIF based on sex and disease status. A tertiary research objective was to assess DIF related to language, sex, and disease status on the recently developed SAAS-5.
+              
+              
+                Design
+                This was a cross-sectional analysis using baseline data from patients enrolled in the Scleroderma Patient-centred Intervention Network (SPIN).
+              
+              
+                Setting
+                SPIN patients included in the present study were enrolled at 43 centres in Canada, USA, UK, France and Australia, with questionnaires completed in April 2014 to July 2019.
+              
+              
+                Participants
+                1640 SPIN patients completed the SAAS in French (n=600) or English (n=1040).
+              
+              
+                Primary and secondary measures
+                The SAAS was collected along with demographic and disease characteristics.
+              
+              
+                Results
+                Six items were identified with statistically significant language-based DIF, four with sex-based DIF and one with disease type-based DIF. However, factor scores before and after accounting for DIF were similar (Pearson correlation &amp;amp;gt;0.99), and individual score differences were small. This was true for both the full and shortened versions of the SAAS.
+              
+              
+                Conclusion
+                SAAS and SAAS-5 scores are comparable across language, sex, and disease-type, despite small differences in how patients respond to some items.
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Towards a Federated Learning Approach for Privacy-aware Analysis of Semantically Enriched Mobility Data</title>
+      <link>/publication/2020_06_25_10.1145_3452369.34638/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2020_06_25_10.1145_3452369.34638/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raising rare disease awareness using red flags, role play simulation and patient educators: results of a novel educational workshop on Raynaud phenomenon and systemic sclerosis</title>
+      <link>/publication/2020_06_23_10.1186_s13023_020_01/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2020_06_23_10.1186_s13023_020_01/</guid>
+      <description>&lt;p&gt;Abstract
+Background
+As lack of awareness of rare diseases (RDs) among healthcare professionals results in delayed diagnoses, there is a need for a more efficient approach to RD training during academic education. We designed an experimental workshop that used role-play simulation with patient educators and focused on teaching “red flags” that should raise the suspicion of an RD when faced with a patient with frequently encountered symptoms. Our objective was to report our experience, and to assess the improvement in learners’ knowledge and the satisfaction levels of the participants.&lt;/p&gt;
+&lt;p&gt;Results
+The workshop consisted of 2 simulated consultations that both started with the same frequent symptom (Raynaud phenomenon, RP) but led to different diagnoses: a frequent condition (idiopathic RP) and an RD (systemic sclerosis, SSc). In the second simulated consultation, the role of the patient was played by a patient educator with SSc. By juxtaposing 2 seemingly similar situations, the training particularly highlighted the elements that help differentiate SSc from idiopathic RP.
+When answering a clinical case exam about RP and SSc, students that had participated in the workshop had a higher mean mark than those who had not (14 ± 3.7 vs 9.6 ± 5.5 points out of 20, jats:italicpjats:italic = 0.001).
+Participants mostly felt “very satisfied” with this training (94%), and “more comfortable” about managing idiopathic RP and SSc (100%). They considered the workshop “not very stressful” and “very formative” (both 71%). When asked about the strengths of this training, they mentioned the benefits of being put in an immersive situation, allowing a better acquisition of practical skills and a more interactive exchange with teachers, as well as the confrontation with a real patient, leading to a better retention of semiological findings and associating a relational component with this experience.&lt;/p&gt;
+&lt;p&gt;Conclusions
+Through the use of innovative educational methods, such as role-play simulation and patient educators, and by focusing on teaching “red flags”, our workshop successfully improved RP and SSc learning in a way that satisfied students. By modifying the workshop’s scenarios, its template can readily be applied to other clinical situations, making it an interesting tool to teach other RDs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>THU0352 DIAGNOSTIC PERFORMANCES OF HAND ULTRASOUND PARAMETERS AND THEIR IMPACT ON THE 2013 ACR/EULAR CLASSIFICATION CRITERIA FOR SYSTEMIC SCLEROSIS.</title>
+      <link>/publication/2020_06_02_10.1136_annrheumdis_2/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2020_06_02_10.1136_annrheumdis_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A scalable and effective rough set theory-based approach for big data pre-processing</title>
+      <link>/publication/2020_05_02_10.1007_s10115_020_01/</link>
+      <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2020_05_02_10.1007_s10115_020_01/</guid>
+      <description>&lt;p&gt;AbstractA big challenge in the knowledge discovery process is to perform data pre-processing, specifically feature selection, on a large amount of data and high dimensional attribute set. A variety of techniques have been proposed in the literature to deal with this challenge with different degrees of success as most of these techniques need further information about the given input data for thresholding, need to specify noise levels or use some feature ranking procedures. To overcome these limitations, rough set theory (RST) can be used to discover the dependency within the data and reduce the number of attributes enclosed in an input data set while using the data alone and requiring no supplementary information. However, when it comes to massive data sets, RST reaches its limits as it is highly computationally expensive. In this paper, we propose a scalable and effective rough set theory-based approach for large-scale data pre-processing, specifically for feature selection, under the Spark framework. In our detailed experiments, data sets with up to 10,000 attributes have been considered, revealing that our proposed solution achieves a good speedup and performs its feature selection task well without sacrificing performance. Thus, making it relevant to big data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On the use of artificial malicious patterns for android malware detection</title>
+      <link>/publication/2020_05_02_10.1016_j.cose.2020.1/</link>
+      <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2020_05_02_10.1016_j.cose.2020.1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Rule Extraction from Access Rules Using Genetic Programming</title>
+      <link>/publication/2020_01_02_10.1007_978_3_030_437/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2020_01_02_10.1007_978_3_030_437/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performances de l’échographie de la main pour le diagnostic de sclérodermie systémique</title>
+      <link>/publication/2019_12_02_10.1016_j.revmed.2019/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019_12_02_10.1016_j.revmed.2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Racial differences in systemic sclerosis disease presentation: a European Scleroderma Trials and Research group study</title>
+      <link>/publication/2019_11_04_10.1093_rheumatology_/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019_11_04_10.1093_rheumatology_/</guid>
+      <description>&lt;p&gt;AbstractObjectivesRacial factors play a significant role in SSc. We evaluated differences in SSc presentations between white patients (WP), Asian patients (AP) and black patients (BP) and analysed the effects of geographical locations.MethodsSSc characteristics of patients from the EUSTAR cohort were cross-sectionally compared across racial groups using survival and multiple logistic regression analyses.ResultsThe study included 9162 WP, 341 AP and 181 BP. AP developed the first non-RP feature faster than WP but slower than BP. AP were less frequently anti-centromere (ACA; odds ratio (OR) = 0.4, P &amp;amp;lt; 0.001) and more frequently anti-topoisomerase-I autoantibodies (ATA) positive (OR = 1.2, P = 0.068), while BP were less likely to be ACA and ATA positive than were WP [OR(ACA) = 0.3, P &amp;amp;lt; 0.001; OR(ATA) = 0.5, P = 0.020]. AP had less often (OR = 0.7, P = 0.06) and BP more often (OR = 2.7, P &amp;amp;lt; 0.001) diffuse skin involvement than had WP. AP and BP were more likely to have pulmonary hypertension [OR(AP) = 2.6, P &amp;amp;lt; 0.001; OR(BP) = 2.7, P = 0.03 vs WP] and a reduced forced vital capacity [OR(AP) = 2.5, P &amp;amp;lt; 0.001; OR(BP) = 2.4, P &amp;amp;lt; 0.004] than were WP. AP more often had an impaired diffusing capacity of the lung than had BP and WP [OR(AP vs BP) = 1.9, P = 0.038; OR(AP vs WP) = 2.4, P &amp;amp;lt; 0.001]. After RP onset, AP and BP had a higher hazard to die than had WP [hazard ratio (HR) (AP) = 1.6, P = 0.011; HR(BP) = 2.1, P &amp;amp;lt; 0.001].ConclusionCompared with WP, and mostly independent of geographical location, AP have a faster and earlier disease onset with high prevalences of ATA, pulmonary hypertension and forced vital capacity impairment and higher mortality. BP had the fastest disease onset, a high prevalence of diffuse skin involvement and nominally the highest mortality.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A scalable and distributed dendritic cell algorithm for big data classification</title>
+      <link>/publication/2019_11_02_10.1016_j.swevo.2018./</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019_11_02_10.1016_j.swevo.2018./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Factors associated with patient-reported likelihood of using online self-care interventions: a Scleroderma Patient-centered Intervention Network (SPIN) cohort study</title>
+      <link>/publication/2019_10_02_10.1136_bmjopen_2019_/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019_10_02_10.1136_bmjopen_2019_/</guid>
+      <description>&lt;pre&gt;&lt;code&gt;                Objectives
+                The Scleroderma Patient-centered Intervention Network (SPIN) Cohort uses the cohort multiple randomised controlled trial design to embed trials of online self-care interventions for people living with systemic sclerosis (SSc; scleroderma). To offer interventions to patients interested in using them, participants complete signalling items that query about the likelihood that patients would agree to participate in nine different hypothetical online programmes addressing common SSc-related problems. It is not known what factors influence patient-reported interest in participating in a particular online intervention and if intervention-specific signalling questions provide unique information or replicate broader characteristics, such as overall willingness to participate or self-efficacy. This study assessed factors that explain responses to intervention-specific signalling items.
+              
+              
+                Design
+                Cross-sectional survey.
+              
+              
+                Setting
+                SPIN Cohort participants enrolled at 42 centres from Canada, the USA, the UK, France, Spain and Mexico who completed study questionnaires from March 2014 to January 2018 were included.
+              
+              
+                Measures
+                Demographic and disease characteristics, self-efficacy and symptoms related to each specific intervention were completed in addition to signalling items. General likelihood of using interventions was calculating by taking the mean score of the remaining signalling questions.
+              
+              
+                Participants
+                1060 participants with complete baseline data were included in the analyses.
+              
+              
+                Results
+                For all individual signalling questions, controlling for other variables, the mean of the remaining signalling questions was the strongest predictor (standardised regression coefficient β from 0.61 (sleep) to 0.80 (self-management)). Smaller, but statistically significant, associations were found with the symptom associated with the respective signalling question and with general self-efficacy for 7 of 9 signalling questions.
+              
+              
+                Conclusions
+                The main factor associated with patients’ interest in participating in a disease-specific online self-care intervention is their general interest in participating in online interventions. Factors that may influence this general interest should be explored and taken into consideration when inviting patients to try online interventions.
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exploration des dimensions de la personne lupique pour un environnement motivationnel en éducation thérapeutique du patient</title>
+      <link>/publication/2019_08_02_10.1016_j.revmed.2018/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019_08_02_10.1016_j.revmed.2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Un très mauvais voyage</title>
+      <link>/publication/2019_08_02_10.1016_j.revmed.2019/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019_08_02_10.1016_j.revmed.2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prévalence et relevance clinique de la thrombopénie au cours du syndrome des antiphospholipides primaire</title>
+      <link>/publication/2019_06_02_10.1016_j.revmed.2019/</link>
+      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019_06_02_10.1016_j.revmed.2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physical or Occupational Therapy Use in Systemic Sclerosis: A Scleroderma Patient-centered Intervention Network Cohort Study</title>
+      <link>/publication/2019_05_01_10.3899_jrheum.181130/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019_05_01_10.3899_jrheum.181130/</guid>
+      <description>&lt;p&gt;Objective.Systemic sclerosis (SSc) is characterized by significant disability because of musculoskeletal involvement. Physical and occupational therapy (PT/OT) have been suggested to improve function. However, the rate of PT/OT use has been shown to be low in SSc. We aimed to identify demographic, medical, and psychological variables associated with PT/OT use in SSc.Methods.Participants were patients with SSc enrolled in the Scleroderma Patient-centered Intervention Network (SPIN) Cohort. We determined the rate and indication of PT/OT use in the 3 months prior to enrollment. Multivariable logistic regression was used to identify variables independently associated with PT/OT use.Results.Of the 1627 patients with SSc included in the analysis, 23% used PT/OT in the preceding 3 months. PT/OT use was independently associated with higher education (OR 1.08, 95% CI 1.04–1.12), having moderately severe small joint contractures (OR 2.09, 95% CI 1.45–3.03), severe large joint contractures (OR 2.33, 95% CI 1.14–4.74), fewer digital ulcerations (OR 0.70, 95% CI 0.51–0.95), and higher disability (OR 1.54, 95% CI 1.18–2.02) and pain scores (OR 1.04, 95% CI 1.02–1.06). The highest rate of PT/OT use was reported in France (43%) and the lowest, in the United States (17%).Conclusion.Despite the potential of PT/OT interventions to improve function, &amp;lt; 1 in 4 patients with SSc enrolled in a large international cohort used PT/OT services in the last 3 months. Patients who used PT/OT had more severe musculoskeletal manifestations and higher pain and disability.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Hybrid Fuzzy Maintained Classification Method Based on Dendritic Cells</title>
+      <link>/publication/2019_03_28_10.1007_s00357_018_92/</link>
+      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019_03_28_10.1007_s00357_018_92/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shortening patient-reported outcome measures through optimal test assembly: application to the Social Appearance Anxiety Scale in the Scleroderma Patient-centered Intervention Network Cohort</title>
+      <link>/publication/2019_02_02_10.1136_bmjopen_2018_/</link>
+      <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019_02_02_10.1136_bmjopen_2018_/</guid>
+      <description>&lt;p&gt;ObjectivesThe Social Appearance Anxiety Scale (SAAS) is a 16-item measure that assesses social anxiety in situations where appearance is evaluated. The objective was to use optimal test assembly (OTA) methods to develop and validate a short-form SAAS based on objective and reproducible criteria.DesignThis study was a cross-sectional analysis of baseline data from adults enrolled in the Scleroderma Patient-centered Intervention Network (SPIN) Cohort.SettingAdults in the SPIN Cohort in the present study were enrolled at 28 centres in Canada, the USA and the UK.ParticipantsThe SAAS was administered to 926 adults with scleroderma.Primary and secondary measuresThe SAAS, Brief Fear of Negative Evaluation II (BFNE II), Brief Satisfaction with Appearance Scale (Brief-SWAP), Patient Health Questionnaire-8 (PHQ8) and Social Interaction Anxiety Scale-6 (SIAS-6) were collected, as well as demographic characteristics.ResultsOTA methods identified a maximally informative shortened version for each possible form length between 1 and 15 items. The final shortened version was selected based on prespecified criteria for reliability, concurrent validity and statistically equivalent convergent validity with the BFNE II scale. A five-item short version was selected (SAAS-5). The SAAS-5 had a Cronbach’s α of 0.95 and had high concurrent validity with the full-length form (r=0.97). The correlation of the SAAS-5 with the BFNE II was 0.66, which was statistically equivalent to that of the full-length form. Furthermore, the correlation of the SAAS-5 with the two subscales of the Brief-SWAP, and the SIAS-6, were statistically equivalent to that of the full-length form.ConclusionsOTA was an efficient method for shortening the full-length SAAS to create the SAAS-5.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rough Set Theory as a Data Mining Technique: A Case Study in Epidemiology and Cancer Incidence Prediction</title>
+      <link>/publication/2019_01_02_10.1007_978_3_030_109/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019_01_02_10.1007_978_3_030_109/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Rough Set Based Feature Selection Approach to Analyse Deep and Hand-crafted Features for Mammography Mass Classification</title>
+      <link>/publication/2018_12_02_10.1109_bigdata.2018./</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018_12_02_10.1109_bigdata.2018./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reliability and Validity of Three Versions of the Brief Fear of Negative Evaluation Scale in Patients With Systemic Sclerosis: A Scleroderma Patient‐Centered Intervention Network Cohort Study</title>
+      <link>/publication/2018_10_26_10.1002_acr.23532/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018_10_26_10.1002_acr.23532/</guid>
+      <description>&lt;p&gt;ObjectiveFear of negative evaluation is a common concern among individuals with visible differences but has received limited attention in systemic sclerosis (jats:styled-content style=&amp;quot;fixed-case&amp;quot;SSjats:styled-contentc), which can involve substantial changes to appearance. The Brief Fear of Negative Evaluation Scale (jats:styled-content style=&amp;quot;fixed-case&amp;quot;BFNEjats:styled-content) was specifically designed to evaluate fear of negative evaluation. There are currently 3 versions of the jats:styled-content style=&amp;quot;fixed-case&amp;quot;BFNEjats:styled-content with strong demonstrated measurement properties: two 8‐item versions (jats:styled-content style=&amp;quot;fixed-case&amp;quot;BFNEjats:styled-content‐S, jats:styled-content style=&amp;quot;fixed-case&amp;quot;BFNEjats:styled-content‐8) and one 12‐item version (jats:styled-content style=&amp;quot;fixed-case&amp;quot;BFNEjats:styled-content‐jats:styled-content style=&amp;quot;fixed-case&amp;quot;IIjats:styled-content). The present study evaluated these versions in jats:styled-content style=&amp;quot;fixed-case&amp;quot;SSjats:styled-contentc, and identified the most appropriate version for use among jats:styled-content style=&amp;quot;fixed-case&amp;quot;SSjats:styled-contentc patients.MethodsParticipants were 1,010 patients with jats:styled-content style=&amp;quot;fixed-case&amp;quot;SSjats:styled-contentc enrolled in the Scleroderma Patient‐Centered Intervention Network cohort. Multiple group confirmatory factor analysis, Cronbach&amp;rsquo;s alpha, and Pearson&amp;rsquo;s product‐moment correlations were used to evaluate structural validity, internal consistency reliability, and convergent and divergent validity, respectively.ResultsConfirmatory factor analysis demonstrated that 1‐factor models fit acceptably well for the 12‐item jats:styled-content style=&amp;quot;fixed-case&amp;quot;BFNEjats:styled-content‐jats:styled-content style=&amp;quot;fixed-case&amp;quot;IIjats:styled-content, the 8‐item jats:styled-content style=&amp;quot;fixed-case&amp;quot;BFNEjats:styled-content‐S, and the 8‐item jats:styled-content style=&amp;quot;fixed-case&amp;quot;BFNEjats:styled-content‐8. Additionally, all Cronbach&amp;rsquo;s alphas demonstrated excellent internal consistency reliability (BFNE‐II = 0.98, BFNE‐S = 0.97, BFNE‐8 = 0.96), and all versions had comparable associations with measures of social anxiety, body‐related attitudes, depression, age, and education.ConclusionPsychometric support was found for all 3 versions of the jats:styled-content style=&amp;quot;fixed-case&amp;quot;BFNEjats:styled-content, although the longer 12‐item jats:styled-content style=&amp;quot;fixed-case&amp;quot;BFNEjats:styled-content‐jats:styled-content style=&amp;quot;fixed-case&amp;quot;IIjats:styled-content did not improve measurement compared to the shorter 8‐item versions (jats:styled-content style=&amp;quot;fixed-case&amp;quot;BFNEjats:styled-content‐S and jats:styled-content style=&amp;quot;fixed-case&amp;quot;BFNEjats:styled-content‐8). Of these 2, the jats:styled-content style=&amp;quot;fixed-case&amp;quot;BFNEjats:styled-content‐S has been more widely studied, with strong validity data in a greater number of populations. Therefore, the jats:styled-content style=&amp;quot;fixed-case&amp;quot;BFNEjats:styled-content‐S is recommended to assess fear of negative evaluation among patients with jats:styled-content style=&amp;quot;fixed-case&amp;quot;SSjats:styled-contentc.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Validation of the Social Appearance Anxiety Scale in Patients With Systemic Sclerosis: A Scleroderma Patient‐Centered Intervention Network Cohort Study</title>
+      <link>/publication/2018_09_27_10.1002_acr.23514/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018_09_27_10.1002_acr.23514/</guid>
+      <description>&lt;p&gt;ObjectiveSystemic sclerosis (jats:styled-content style=&amp;quot;fixed-case&amp;quot;SSjats:styled-contentc) is an autoimmune disease that can cause disfiguring changes in appearance. This study examined the structural validity, internal consistency reliability, convergent validity, and measurement equivalence of the Social Appearance Anxiety Scale (jats:styled-content style=&amp;quot;fixed-case&amp;quot;SAASjats:styled-content) across jats:styled-content style=&amp;quot;fixed-case&amp;quot;SSjats:styled-contentc disease subtypes.MethodsPatients enrolled in the Scleroderma Patient‐centered Intervention Network Cohort completed the jats:styled-content style=&amp;quot;fixed-case&amp;quot;SAASjats:styled-content and measures of appearance‐related concerns and psychological distress. Confirmatory factor analysis (jats:styled-content style=&amp;quot;fixed-case&amp;quot;CFAjats:styled-content) was used to examine the structural validity of the jats:styled-content style=&amp;quot;fixed-case&amp;quot;SAASjats:styled-content. Multiple‐group jats:styled-content style=&amp;quot;fixed-case&amp;quot;CFAjats:styled-content was used to determine whether jats:styled-content style=&amp;quot;fixed-case&amp;quot;SAASjats:styled-content scores can be compared across patients with limited and diffuse disease subtypes. Cronbach&amp;rsquo;s alpha was used to examine internal consistency reliability. Correlations of jats:styled-content style=&amp;quot;fixed-case&amp;quot;SAASjats:styled-content scores with measures of body image dissatisfaction, fear of negative evaluation, social anxiety, and depression were used to examine convergent validity. jats:styled-content style=&amp;quot;fixed-case&amp;quot;SAASjats:styled-content scores were hypothesized to be positively associated with all convergent validity measures, with correlations significant and moderate to large in size.ResultsA total of 938 patients with jats:styled-content style=&amp;quot;fixed-case&amp;quot;SSjats:styled-contentc were included. jats:styled-content style=&amp;quot;fixed-case&amp;quot;CFAjats:styled-content supported a 1‐factor structure (Comparative Fit Index 0.92, Standardized Root Mean Residual 0.04, and Root Mean Square Error of Approximation 0.08), and multiple‐group jats:styled-content style=&amp;quot;fixed-case&amp;quot;CFAjats:styled-content indicated that the scalar invariance model best fit the data. Internal consistency reliability was good in the total sample (α = 0.96) and in disease subgroups. Overall, evidence of convergent validity was found with measures of body image dissatisfaction, fear of negative evaluation, social anxiety, and depression.ConclusionThe jats:styled-content style=&amp;quot;fixed-case&amp;quot;SAASjats:styled-content can be reliably and validly used to assess fear of appearance evaluation in patients with jats:styled-content style=&amp;quot;fixed-case&amp;quot;SSjats:styled-contentc, and jats:styled-content style=&amp;quot;fixed-case&amp;quot;SAASjats:styled-content scores can be meaningfully compared across disease subtypes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A distributed dendritic cell algorithm for big data</title>
+      <link>/publication/2018_07_06_10.1145_3205651.32057/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018_07_06_10.1145_3205651.32057/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L’occlusion ulnaire au cours de la sclérodermie systémique est associée à une microangiopathie spécifique sévère mais pas à la maladie athéromateuse : étude monocentrique de 99 patients</title>
+      <link>/publication/2018_06_02_10.1016_j.revmed.2018/</link>
+      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018_06_02_10.1016_j.revmed.2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>THU0417 Whole body distribution and clinical associations of telangiectasia in systemic sclerosis: a cross-sectional study</title>
+      <link>/publication/2018_06_02_10.1136_annrheumdis_2/</link>
+      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018_06_02_10.1136_annrheumdis_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Factor structure and convergent validity of the Derriford Appearance Scale-24 using standard scoring versus treating ‘not applicable’ responses as missing data: a Scleroderma Patient-centered Intervention Network (SPIN) cohort study</title>
+      <link>/publication/2018_03_02_10.1136_bmjopen_2017_/</link>
+      <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018_03_02_10.1136_bmjopen_2017_/</guid>
+      <description>&lt;pre&gt;&lt;code&gt;                Objective
+                Valid measures of appearance concern are needed in systemic sclerosis (SSc), a rare, disfiguring autoimmune disease. The Derriford Appearance Scale-24 (DAS-24) assesses appearance-related distress related to visible differences. There is uncertainty regarding its factor structure, possibly due to its scoring method.
+              
+              
+                Design
+                Cross-sectional survey.
+              
+              
+                Setting
+                Participants with SSc were recruited from 27 centres in Canada, the USA and the UK. Participants who self-identified as having visible differences were recruited from community and clinical settings in the UK.
+              
+              
+                Participants
+                Two samples were analysed (n=950 participants with SSc; n=1265 participants with visible differences).
+              
+              
+                Primary and secondary outcome measures
+                The DAS-24 factor structure was evaluated using two scoring methods. Convergent validity was evaluated with measures of social interaction anxiety, depression, fear of negative evaluation, social discomfort and dissatisfaction with appearance.
+              
+              
+                Results
+                When items marked by respondents as ‘not applicable’ were scored as 0, per standard DAS-24 scoring, a one-factor model fit poorly; when treated as missing data, the one-factor model fit well. Convergent validity analyses revealed strong correlations that were similar across scoring methods.
+              
+              
+                Conclusions
+                Treating ‘not applicable’ responses as missing improved the measurement model, but did not substantively influence practical inferences that can be drawn from DAS-24 scores. Indications of item redundancy and poorly performing items suggest that the DAS-24 could be improved and potentially shortened.
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A distributed rough set theory based algorithm for an efficient big data pre-processing under the spark framework</title>
+      <link>/publication/2017_12_02_10.1109_bigdata.2017./</link>
+      <pubDate>Sat, 02 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2017_12_02_10.1109_bigdata.2017./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Whole body distribution and clinical associations of telangiectasia in systemic sclerosis: A cross-sectional study</title>
+      <link>/publication/2017_12_02_10.1016_j.revmed.2017/</link>
+      <pubDate>Sat, 02 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2017_12_02_10.1016_j.revmed.2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dépistage de l’hypertension pulmonaire au cours de la sclérodermie systémique : une stratégie optimale encore à définir</title>
+      <link>/publication/2017_08_02_10.1016_j.revmed.2017/</link>
+      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2017_08_02_10.1016_j.revmed.2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Role of B cells in the pathogenesis of systemic sclerosis</title>
+      <link>/publication/2017_02_02_10.1016_j.revmed.2016/</link>
+      <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2017_02_02_10.1016_j.revmed.2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facteurs associés à la distance parcourue lors du test de marche de 6 minutes au cours de la sclérodermie systémique</title>
+      <link>/publication/2016_12_02_10.1016_j.revmed.2016/</link>
+      <pubDate>Fri, 02 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2016_12_02_10.1016_j.revmed.2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fixation au TEP-scan d’une pneumopathie interstitielle diffuse associée à la sclérodermie systémique</title>
+      <link>/publication/2016_06_02_10.1016_j.revmed.2016/</link>
+      <pubDate>Thu, 02 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2016_06_02_10.1016_j.revmed.2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From the General to the Specific: Inducing a Novel Dendritic Cell Algorithm from a Detailed State-of-the-Art Review</title>
+      <link>/publication/2016_02_22_10.1142_s021800141659/</link>
+      <pubDate>Mon, 22 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2016_02_22_10.1142_s021800141659/</guid>
+      <description>&lt;p&gt;Considered as one of the emerging evolutionary algorithms, the Dendritic Cell Algorithm (DCA) is based on the behavior of specific immune agents; known as Dendritic Cells (DCs). Studies related with DCA are increasingly becoming popular and this is due to the worthy characteristics expressed by the algorithm as it exhibits several potentially beneficial features for binary classification problems. Yet, according to our best knowledge, there is no study summarizing the basic features of the DCA developed versions all in one paper. Hence, in this paper we aim at summarizing the powerful characteristics of the DCA while making a general review of the algorithm. We aim at studying the various versions of DCA while highlighting their characteristics, advantages and limitations. Based on this study and from the conducted conclusions, we intend to generate a well-studied novel DC classifier based on the positive aspects reflected by the previously proposed DCA versions. Results show that our proposed algorithm succeeds in obtaining significantly improved classification accuracy.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Pre-processing Based on Rough Sets and the Link to Other Theories</title>
+      <link>/publication/2016_01_02_10.1007_978_3_319_295/</link>
+      <pubDate>Sat, 02 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2016_01_02_10.1007_978_3_319_295/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Uncertainty Quandary: A Study in the Context of the Evolutionary Optimization in Games and Other Uncertain Environments</title>
+      <link>/publication/2016_01_02_10.1007_978_3_662_535/</link>
+      <pubDate>Sat, 02 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2016_01_02_10.1007_978_3_662_535/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Improved Decision System for URL Accesses Based on a Rough Feature Selection Technique</title>
+      <link>/publication/2015_12_20_10.1007_978_3_319_264/</link>
+      <pubDate>Sun, 20 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2015_12_20_10.1007_978_3_319_264/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Statistical Approach to Dealing with Noisy Fitness in Evolutionary Algorithms</title>
+      <link>/publication/2015_11_25_10.1007_978_3_319_263/</link>
+      <pubDate>Wed, 25 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2015_11_25_10.1007_978_3_319_263/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A survey of the dendritic cell algorithm</title>
+      <link>/publication/2015_10_12_10.1007_s10115_015_08/</link>
+      <pubDate>Mon, 12 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2015_10_12_10.1007_s10115_015_08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rule‐based approach for topic maps learning from relational databases</title>
+      <link>/publication/2015_06_03_10.1111_exsy.12113/</link>
+      <pubDate>Wed, 03 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2015_06_03_10.1111_exsy.12113/</guid>
+      <description>&lt;p&gt;AbstractRelational databases (RDBs) have been widely used as back end for information systems. Considering that RDBs have valuable knowledge interwoven in between stored data, how to access, represent and share this knowledge becomes an important challenge. Topic maps (TMs) emerge as a good solution for this problem. However, manual development of TMs is a difficult, time‐consuming and subjective task if there is no common guideline. The existing TMs building approaches mainly consider the meta‐information contained in a RDB, without considering the knowledge residing in the database content (its current state). Other approaches require a predefined configuration for applying a specific data transformation. This paper proposes an automatic method for TM construction based on learning rules. Our method considers the background knowledge of the RDBs during the building process and was implemented and applied on a representative set of 15 RDBs. The resulting TMs were validated syntactically using a standard tool and validated semantically through the inference of information using a formal query language. In addition, an analysis between the relational data (input) and its representation (output) was conducted. The results found in our experiments are encouraging and put in evidence the soundness of the proposed method.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OP0059 Phenotypes Determined by Cluster Analysis and their Survival in the Prospective Eustar Cohort of Patients with Systemic Sclerosis</title>
+      <link>/publication/2015_06_02_10.1136_annrheumdis_2/</link>
+      <pubDate>Tue, 02 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2015_06_02_10.1136_annrheumdis_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Version of the Dendritic Cell Immune Algorithm Based on the K-Nearest Neighbors</title>
+      <link>/publication/2015_01_02_10.1007_978_3_319_265/</link>
+      <pubDate>Fri, 02 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2015_01_02_10.1007_978_3_319_265/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hybridization Schemes of the Fuzzy Dendritic Cell Immune Binary Classifier based on Different Fuzzy Clustering Techniques</title>
+      <link>/publication/2015_01_02_10.1007_s00354_015_01/</link>
+      <pubDate>Fri, 02 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2015_01_02_10.1007_s00354_015_01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>There is Noisy Lunch: A Study of Noise in Evolutionary Optimization Problems</title>
+      <link>/publication/2015_01_02_10.5220_0005600702610/</link>
+      <pubDate>Fri, 02 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2015_01_02_10.5220_0005600702610/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Associations cliniques des anticorps anti-ARN polymérase de type III dans la sclérodermie systémique : données d’une cohorte française complétées d’une revue systématique avec méta-analyse</title>
+      <link>/publication/2014_12_02_10.1016_j.revmed.2014/</link>
+      <pubDate>Tue, 02 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2014_12_02_10.1016_j.revmed.2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A study of the data pre-processing module of the dendritic cell evolutionary algorithm</title>
+      <link>/publication/2014_11_02_10.1109_codit.2014.69/</link>
+      <pubDate>Sun, 02 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2014_11_02_10.1109_codit.2014.69/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A two-leveled hybrid dendritic cell algorithm under imprecise reasoning</title>
+      <link>/publication/2014_07_12_10.1145_2576768.25982/</link>
+      <pubDate>Sat, 12 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2014_07_12_10.1145_2576768.25982/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AB0614 Prognostic Factors of Functional Outcome in Systemic Sclerosis-Associated Interstitial Lung Disease</title>
+      <link>/publication/2014_06_02_10.1136_annrheumdis_2/</link>
+      <pubDate>Mon, 02 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2014_06_02_10.1136_annrheumdis_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Rough Information Extraction Technique for the Dendritic Cell Algorithm within Imprecise Circumstances</title>
+      <link>/publication/2014_01_02_10.1007_978_3_319_070/</link>
+      <pubDate>Thu, 02 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2014_01_02_10.1007_978_3_319_070/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving the Dendritic Cell Algorithm Performance Using Fuzzy-Rough Set Theory as a Pattern Discovery Technique</title>
+      <link>/publication/2014_01_02_10.1007_978_3_319_081/</link>
+      <pubDate>Thu, 02 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2014_01_02_10.1007_978_3_319_081/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prévalence des anticorps anti-ARN polymerase de type III dans la sclérodermie systémique : nouvelle cohorte française, revue systématique et méta-analyse</title>
+      <link>/publication/2013_12_02_10.1016_j.revmed.2013/</link>
+      <pubDate>Mon, 02 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2013_12_02_10.1016_j.revmed.2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Further exploration of the hybrid Fuzzy-Rough Dendritic Cell immune classifier</title>
+      <link>/publication/2013_11_02_10.1109_ehb.2013.6707/</link>
+      <pubDate>Sat, 02 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2013_11_02_10.1109_ehb.2013.6707/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new data pre-processing approach for the dendritic cellalgorithm based on fuzzy rough set theory</title>
+      <link>/publication/2013_07_06_10.1145_2464576.24646/</link>
+      <pubDate>Sat, 06 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2013_07_06_10.1145_2464576.24646/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>THU0294 Pulmonary Arterial Hypertension Complicating Primary Sjogren Syndrome: A Rare Association</title>
+      <link>/publication/2013_06_02_10.1136_annrheumdis_2/</link>
+      <pubDate>Sun, 02 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2013_06_02_10.1136_annrheumdis_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TEP et infection : à propos d’un cas de toxoplasmose, ou les dangers de la mondialisation</title>
+      <link>/publication/2013_05_02_10.1016_j.mednuc.2013/</link>
+      <pubDate>Thu, 02 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2013_05_02_10.1016_j.mednuc.2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new mobile health application for an ubiquitous information system</title>
+      <link>/publication/2013_04_02_10.1109_wmnc.2013.654/</link>
+      <pubDate>Tue, 02 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2013_04_02_10.1109_wmnc.2013.654/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Hybrid Fuzzy-Rough Dendritic Cell Immune Classifier</title>
+      <link>/publication/2013_01_02_10.1007_978_3_642_387/</link>
+      <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2013_01_02_10.1007_978_3_642_387/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supporting Fuzzy-Rough Sets in the Dendritic Cell Algorithm Data Pre-processing Phase</title>
+      <link>/publication/2013_01_02_10.1007_978_3_642_420/</link>
+      <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2013_01_02_10.1007_978_3_642_420/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RC-DCA: A New Feature Selection and Signal Categorization Technique for the Dendritic Cell Algorithm Based on Rough Set Theory</title>
+      <link>/publication/2012_01_02_10.1007_978_3_642_337/</link>
+      <pubDate>Mon, 02 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2012_01_02_10.1007_978_3_642_337/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RST-DCA: A Dendritic Cell Algorithm Based on Rough Set Theory</title>
+      <link>/publication/2012_01_02_10.1007_978_3_642_344/</link>
+      <pubDate>Mon, 02 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2012_01_02_10.1007_978_3_642_344/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Further Exploration of the Fuzzy Dendritic Cell Method</title>
+      <link>/publication/2011_01_02_10.1007_978_3_642_223/</link>
+      <pubDate>Sun, 02 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2011_01_02_10.1007_978_3_642_223/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FDCM: A Fuzzy Dendritic Cell Method</title>
+      <link>/publication/2010_01_02_10.1007_978_3_642_145/</link>
+      <pubDate>Sat, 02 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2010_01_02_10.1007_978_3_642_145/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of Felder-Silverman Learning Styles with a Supervised Neural Network</title>
+      <link>/publication/2010_01_02_http___dx.doi.org_10./</link>
+      <pubDate>Sat, 02 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2010_01_02_http___dx.doi.org_10./</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -7,10 +7,20 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Tue, 27 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Thunder</title>
+      <link>/project/thunder/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/project/thunder/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Machine learning&lt;/em&gt; (ML) offers transformative opportunities for healthcare, with applications ranging from precision medicine to operational optimization. However, progress is constrained by limited access to diverse, high-quality datasets, exacerbated by fragmentation, data scarcity, and stringent privacy regulations. Traditional data augmentation methods fail to fully capture the complexity and heterogeneity of healthcare data. &lt;em&gt;Generative AI&lt;/em&gt;, particularly large language models (LLMs), offers a promising alternative by synthesizing realistic datasets while addressing data scarcity. Yet, their adoption in healthcare is hindered by critical concerns about trustworthiness, including semantic validity, fairness, bias mitigation, fidelity, privacy preservation, and real-world utility. This research identifies key gaps in developing trustworthy generative models and ML methods for healthcare. These include the absence of standardized synthetic data evaluation frameworks, trust deficits in healthcare generative models, resource intensiveness, and design-induced opaqueness. The overall objective of the &lt;a href=&#34;https://thunder-msca-se.univ-lille.fr/&#34;&gt;THUNDER&lt;/a&gt; project is to forge a comprehensive framework for trustworthy and responsible &lt;em&gt;generative AI&lt;/em&gt; in healthcare. This will be achieved by defining (i) standardized evaluation metrics, (ii) developing advanced knowledge-guided generative models, and (iii) creating a fully frugal-by-design and interpretable-by-design learning models. These efforts, driven by interdisciplinary and intersectoral mobility and knowledge exchange, will establish a new paradigm for AI-driven healthcare. We will target Sepsis as a global health priority identified by the World Health Organization (WHO).&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Systemic Sclerosis</title>
@@ -33,6 +43,10 @@
 &lt;li&gt;(ii) research (efforts have been focused on dcSSc to the detriment of lcSSc, even though we now know that this form is also associated with a major impact on quality of life).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;It demonstrates that the classification of a disease has a very important impact on its management and medico-economic policies. Numerous studies have suggested that SSc is in fact a much more heterogeneous disease than the simple dichotomy between lcSSc and dcSSc with diverse clinical presentations and varying degrees of organ involvement among patients. We conducted an unsupervised learning analysis of the European Scleroderma Trials and Research (EUSTAR) cohort comprising 137 centers i.e. ~7000 patients. Cluster analysis confirmed that there was significant heterogeneity and that organ involvement and antibody profiles played an important role in cluster discrimination. We showed that some clusters resembled the classically expected forms (older women with lcSSc and mild organ involvement, younger men with very severe dcSSc) but also highlighted subsets less described in the literature but corresponding to clinical practice.&lt;/p&gt;
+&lt;h2 id=&#34;translational-research-understanding-the-pathogenicity-of-antinuclear-antibodies-in-systemic-sclerosis&#34;&gt;Translational research: understanding the pathogenicity of antinuclear antibodies in systemic sclerosis.&lt;/h2&gt;
+&lt;p&gt;Antinuclear antibodies (ANA) are present in the vast majority of patients with systemic sclerosis (SSc). ANA are valuable tools in the management of patients with SSc. Indeed, they represent the best biomarkers of the disease, as they are strongly associated with distinct clinical phenotypes and prognoses. For example, anti-topoisomerase I antibodies (ATA) are associated with more severe forms of the disease and with the presence of pulmonary involvement. However, their role in the pathophysiology of the disease has not been demonstrated.&lt;/p&gt;
+&lt;p&gt;Within the ENDOMIC team, we have shown through omics studies that immunoglobulin G (IgG) from patients with SSc modifies the molecular profile of normal fibroblasts and endothelial cells, depending on the ANA serotype. In particular, we identified distinct molecular profiles induced by ANA-positive IgG.&lt;/p&gt;
+&lt;p&gt;Based on these findings, we hypothesize that ANA from SSc patients directly interact with their intranuclear targets. Using combined approaches including confocal microscopy, super-resolution microscopy, and live-cell imaging, we demonstrated that ATA can access the nucleus of living cells and interacting with their nuclear target antigen (topoisomerase I). These data suggest a paradigm shift in systemic autoimmune diseases, in which ANA would no longer be considered merely spectators and biomarkers, but also active players in pathophysiological mechanisms.&lt;/p&gt;
 </description>
     </item>
     

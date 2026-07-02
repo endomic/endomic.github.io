@@ -7,7 +7,7 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Thu, 09 Oct 2025 09:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -88,7 +88,7 @@
     <item>
       <title></title>
       <link>/authors/kilian/</link>
-      <pubDate>Thu, 09 Oct 2025 09:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
       
       <guid>/authors/kilian/</guid>
       <description>&lt;p&gt;I began as a PhD student in Endomic in October 2024. I aim to study patients longitudinal data to help unveil hidden endotypes in systemic sclerosis. Unsupervised machine learning can be a great tool to achieve such a goal, so as a computer science PhD student I will develop algorithms and AI models like triclustering and statistical analysis.&lt;/p&gt;
@@ -119,8 +119,18 @@
     
     <item>
       <title></title>
+      <link>/authors/zaineb/</link>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/zaineb/</guid>
+      <description>&lt;p&gt;Zaineb GARCIA is a Professor at University of Lille, a researcher at &lt;a href=&#34;https://www.inria.fr/fr/centre-inria-de-luniversite-de-lille&#34;&gt;Inria Lille&lt;/a&gt; (Delegation), a member of the &lt;a href=&#34;https://www.cristal.univ-lille.fr/equipes/orkad/&#34;&gt;Operational Research, Knowledge And Data (ORKAD)&lt;/a&gt; group at the &lt;a href=&#34;https://www.cristal.univ-lille.fr/&#34;&gt;CRIStAL laboratory&lt;/a&gt;, and a member of the &lt;a href=&#34;https://lille-inflammation-research.org/en/&#34;&gt;Institute for Translational Research in Inflammation (Infinite)&lt;/a&gt;. She earned her HDR (qualification for supervising research) from the &lt;a href=&#34;https://www.universite-paris-saclay.fr/&#34;&gt;University of Paris-Saclay&lt;/a&gt;, France. Her research interests span various aspects of Artificial Intelligence, including Machine Learning, Evolutionary Algorithms, Artificial Immune Systems, Generative Artificial Intelligence, approximated reasoning, granular computation, and privacy preservation. She focuses on real-world applications, particularly in the medical field and cyber-security. Her research is funded by European Union’s research and innovation programs, national grants, multi-partner projects, and bilateral research collaboration programs. She has received numerous awards, including the Marie Skłodowska Curie Individual European Fellowship (MSCA-IF), the Young Researcher First Price (IEEE EHB’2013), the ACM-W Award, and the Best Reviewer Award (iCDEc 2018). She also acts as a Marie Sklodowska Curie Ambassador, selected as a Female Scientist Role Model, and selected to be among the Heidelberg-Laureate-Forum (HLF&#39;2017) most qualified young researchers, and among the 30 MSC talented researchers to communicate her research at the Falling Walls Labs 2018 organized by the European Commission (EC).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/authors/vincent/</link>
-      <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
       
       <guid>/authors/vincent/</guid>
       <description>&lt;p&gt;I am a &lt;a href=&#34;https://pro.univ-lille.fr/vincent-sobanski/&#34;&gt;Professor in Internal Medicine&lt;/a&gt; at the University of Lille and CHU Lille; my research work aims to better characterize the clinical heterogeneity of systemic autoimmune diseases and to understand the role of autoantibodies. As clinical physicians, we are constantly looking for the best tools to diagnose, search for complications or predict prognosis in order to decide on therapeutic management. We already use patient stratification methods for the diseases we are in charge of; new technological tools provide new avenues for research. I have been strongly involved in this theme in the hospital and university community. My academic work is focused on helping to diagnose and stratify patients through new technologies and an integrated approach, building on and developing my own research on rare diseases (autoimmune and fibrotic pathologies), but with a strong commitment to disseminate and use these skills for the entire community.&lt;/p&gt;
@@ -164,22 +174,21 @@ It is a long established fact that a reader will be distracted by the readable c
     </item>
     
     <item>
+      <title>D Launay</title>
+      <link>/authors/d-launay/</link>
+      <pubDate>Wed, 20 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/d-launay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
       <link>/authors/gabriel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/gabriel/</guid>
       <description>&lt;h1 id=&#34;heading&#34;&gt;&amp;hellip;&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/zaineb/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/zaineb/</guid>
-      <description>&lt;p&gt;Zaineb GARCIA is a Professor at University of Lille, a researcher at &lt;a href=&#34;https://www.inria.fr/fr/centre-inria-de-luniversite-de-lille&#34;&gt;Inria Lille&lt;/a&gt; (Delegation), a member of the &lt;a href=&#34;https://www.cristal.univ-lille.fr/equipes/orkad/&#34;&gt;Operational Research, Knowledge And Data (ORKAD)&lt;/a&gt; group at the &lt;a href=&#34;https://www.cristal.univ-lille.fr/&#34;&gt;CRIStAL laboratory&lt;/a&gt;, and a member of the &lt;a href=&#34;https://lille-inflammation-research.org/en/&#34;&gt;Institute for Translational Research in Inflammation (Infinite)&lt;/a&gt;. She earned her HDR (qualification for supervising research) from the &lt;a href=&#34;https://www.universite-paris-saclay.fr/&#34;&gt;University of Paris-Saclay&lt;/a&gt;, France. Her research interests span various aspects of Artificial Intelligence, including Machine Learning, Evolutionary Algorithms, Artificial Immune Systems, Generative Artificial Intelligence, approximated reasoning, granular computation, and privacy preservation. She focuses on real-world applications, particularly in the medical field and cyber-security. Her research is funded by European Union’s research and innovation programs, national grants, multi-partner projects, and bilateral research collaboration programs. She has received numerous awards, including the Marie Skłodowska Curie Individual European Fellowship (MSCA-IF), the Young Researcher First Price (IEEE EHB’2013), the ACM-W Award, and the Best Reviewer Award (iCDEc 2018). She also acts as a Marie Sklodowska Curie Ambassador, selected as a Female Scientist Role Model, and selected to be among the Heidelberg-Laureate-Forum (HLF&#39;2017) most qualified young researchers, and among the 30 MSC talented researchers to communicate her research at the Falling Walls Labs 2018 organized by the European Commission (EC).&lt;/p&gt;
 </description>
     </item>
     

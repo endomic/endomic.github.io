@@ -7,10 +7,37 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Wed, 16 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Oct 2025 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fair and Privacy-Preserving Synthetic Data Generation via Clustering-Based Variational Autoencoder and Adversarially Debiased Wasserstein Generative Adversarial Networks with Gradient Penalty</title>
+      <link>/publication/2025_10_04_10.1007_978_3_032_059/</link>
+      <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2025_10_04_10.1007_978_3_032_059/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multi-objective Multi-agent Interactive Deep Reinforcement Learning Approach for Feature Selection</title>
+      <link>/publication/2025_01_02_10.1007_978_981_96_69/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2025_01_02_10.1007_978_981_96_69/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Class of Intelligible Models for Tabular Learning</title>
+      <link>/publication/2025_01_02_10.1007_978_3_031_746/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2025_01_02_10.1007_978_3_031_746/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>HBIC: A Biclustering Algorithm for Heterogeneous Datasets</title>
@@ -18,6 +45,16 @@
       <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
       
       <guid>/publication/2024_10_16_10.3233_faia240851/</guid>
+      <description>&lt;p&gt;Biclustering is an unsupervised machine-learning approach aiming to cluster rows and columns simultaneously in a data matrix. Several biclustering algorithms have been proposed for handling numeric datasets. However, real-world data mining problems often involve heterogeneous datasets with mixed attributes. To address this challenge, we introduce a biclustering approach called HBIC, capable of discovering meaningful biclusters in complex heterogeneous data, including numeric, binary, and categorical data. The approach comprises two stages: bicluster generation and bicluster model selection. In the initial stage, several candidate biclusters are generated iteratively by adding and removing rows and columns based on the frequency of values in the original matrix. In the second stage, we introduce two approaches for selecting the most suitable biclusters by considering their size and homogeneity. Through a series of experiments, we investigated the suitability of our approach on a synthetic benchmark and in a biomedical application involving clinical data of systemic sclerosis patients. The evaluation comparing our method to existing approaches demonstrates its ability to discover high-quality biclusters from heterogeneous data. Our biclustering approach is a starting point for heterogeneous bicluster discovery, leading to a better understanding of complex underlying data structures.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HBIC: A Biclustering Algorithm for Heterogeneous Datasets</title>
+      <link>/publication_old/2024_10_16_10.3233_faia240851/</link>
+      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/publication_old/2024_10_16_10.3233_faia240851/</guid>
       <description>&lt;p&gt;Biclustering is an unsupervised machine-learning approach aiming to cluster rows and columns simultaneously in a data matrix. Several biclustering algorithms have been proposed for handling numeric datasets. However, real-world data mining problems often involve heterogeneous datasets with mixed attributes. To address this challenge, we introduce a biclustering approach called HBIC, capable of discovering meaningful biclusters in complex heterogeneous data, including numeric, binary, and categorical data. The approach comprises two stages: bicluster generation and bicluster model selection. In the initial stage, several candidate biclusters are generated iteratively by adding and removing rows and columns based on the frequency of values in the original matrix. In the second stage, we introduce two approaches for selecting the most suitable biclusters by considering their size and homogeneity. Through a series of experiments, we investigated the suitability of our approach on a synthetic benchmark and in a biomedical application involving clinical data of systemic sclerosis patients. The evaluation comparing our method to existing approaches demonstrates its ability to discover high-quality biclusters from heterogeneous data. Our biclustering approach is a starting point for heterogeneous bicluster discovery, leading to a better understanding of complex underlying data structures.&lt;/p&gt;
 </description>
     </item>
@@ -32,11 +69,29 @@
     </item>
     
     <item>
+      <title>Clustering and Evolving Concepts for Subclassification</title>
+      <link>/publication_old/2024_01_02_10.1007_978_3_031_406/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/publication_old/2024_01_02_10.1007_978_3_031_406/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Evolutionary Clustering and Community Detection</title>
       <link>/publication/2023_11_02_10.1007_978_981_99_38/</link>
       <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>/publication/2023_11_02_10.1007_978_981_99_38/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary Clustering and Community Detection</title>
+      <link>/publication_old/2023_11_02_10.1007_978_981_99_38/</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publication_old/2023_11_02_10.1007_978_981_99_38/</guid>
       <description></description>
     </item>
     
@@ -50,6 +105,15 @@
     </item>
     
     <item>
+      <title>Biclustering Algorithms Based on Metaheuristics: A Review</title>
+      <link>/publication_old/2022_08_13_10.1007_978_981_19_38/</link>
+      <pubDate>Sat, 13 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication_old/2022_08_13_10.1007_978_981_19_38/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Multi-view Clustering of Heterogeneous Health Data: Application to Systemic Sclerosis</title>
       <link>/publication/2022_01_02_10.1007_978_3_031_147/</link>
       <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
@@ -59,11 +123,38 @@
     </item>
     
     <item>
+      <title>Multi-view Clustering of Heterogeneous Health Data: Application to Systemic Sclerosis</title>
+      <link>/publication_old/2022_01_02_10.1007_978_3_031_147/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication_old/2022_01_02_10.1007_978_3_031_147/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malware Detection Using Rough Set Based Evolutionary Optimization</title>
+      <link>/publication/2021_01_02_10.1007_978_3_030_923/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2021_01_02_10.1007_978_3_030_923/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>On the Interaction Between Distance Functions and Clustering Criteria in Multi-objective Clustering</title>
       <link>/publication/2021_01_02_10.1007_978_3_030_720/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/publication/2021_01_02_10.1007_978_3_030_720/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Interaction Between Distance Functions and Clustering Criteria in Multi-objective Clustering</title>
+      <link>/publication_old/2021_01_02_10.1007_978_3_030_720/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication_old/2021_01_02_10.1007_978_3_030_720/</guid>
       <description></description>
     </item>
     
@@ -78,11 +169,147 @@
     </item>
     
     <item>
+      <title>A Decentralized Framework for Biostatistics and Privacy Concerns</title>
+      <link>/publication_old/2020_11_23_10.3233_shti200710/</link>
+      <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication_old/2020_11_23_10.3233_shti200710/</guid>
+      <description>&lt;p&gt;Biostatistics and machine learning have been the cornerstone of a variety of recent developments in medicine. In order to gather large enough datasets, it is often necessary to set up multi-centric studies; yet, centralization of measurements can be difficult, either for practical, legal or ethical reasons. As an alternative, federated learning enables leveraging multiple centers’ data without actually collating them. While existing works generally require a center to act as a leader and coordinate computations, we propose a fully decentralized framework where each center plays the same role. In this paper, we apply this framework to logistic regression, including confidence intervals computation. We test our algorithm on two distinct clinical datasets split among different centers, and show that it matches results from the centralized framework. In addition, we discuss possible privacy leaks and potential protection mechanisms, paving the way towards further research.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automatic Rule Extraction from Access Rules Using Genetic Programming</title>
+      <link>/publication/2020_01_02_10.1007_978_3_030_437/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2020_01_02_10.1007_978_3_030_437/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rough Set Theory as a Data Mining Technique: A Case Study in Epidemiology and Cancer Incidence Prediction</title>
+      <link>/publication/2019_01_02_10.1007_978_3_030_109/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019_01_02_10.1007_978_3_030_109/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Evolutionary Clustering Using Multi-prototype Representation and Connectivity Criterion</title>
       <link>/publication/2017_01_02_10.1007_978_3_319_592/</link>
       <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>/publication/2017_01_02_10.1007_978_3_319_592/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary Clustering Using Multi-prototype Representation and Connectivity Criterion</title>
+      <link>/publication_old/2017_01_02_10.1007_978_3_319_592/</link>
+      <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication_old/2017_01_02_10.1007_978_3_319_592/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Pre-processing Based on Rough Sets and the Link to Other Theories</title>
+      <link>/publication/2016_01_02_10.1007_978_3_319_295/</link>
+      <pubDate>Sat, 02 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2016_01_02_10.1007_978_3_319_295/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Uncertainty Quandary: A Study in the Context of the Evolutionary Optimization in Games and Other Uncertain Environments</title>
+      <link>/publication/2016_01_02_10.1007_978_3_662_535/</link>
+      <pubDate>Sat, 02 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2016_01_02_10.1007_978_3_662_535/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Improved Decision System for URL Accesses Based on a Rough Feature Selection Technique</title>
+      <link>/publication/2015_12_20_10.1007_978_3_319_264/</link>
+      <pubDate>Sun, 20 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2015_12_20_10.1007_978_3_319_264/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Statistical Approach to Dealing with Noisy Fitness in Evolutionary Algorithms</title>
+      <link>/publication/2015_11_25_10.1007_978_3_319_263/</link>
+      <pubDate>Wed, 25 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2015_11_25_10.1007_978_3_319_263/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Version of the Dendritic Cell Immune Algorithm Based on the K-Nearest Neighbors</title>
+      <link>/publication/2015_01_02_10.1007_978_3_319_265/</link>
+      <pubDate>Fri, 02 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2015_01_02_10.1007_978_3_319_265/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Rough Information Extraction Technique for the Dendritic Cell Algorithm within Imprecise Circumstances</title>
+      <link>/publication/2014_01_02_10.1007_978_3_319_070/</link>
+      <pubDate>Thu, 02 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2014_01_02_10.1007_978_3_319_070/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving the Dendritic Cell Algorithm Performance Using Fuzzy-Rough Set Theory as a Pattern Discovery Technique</title>
+      <link>/publication/2014_01_02_10.1007_978_3_319_081/</link>
+      <pubDate>Thu, 02 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2014_01_02_10.1007_978_3_319_081/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Hybrid Fuzzy-Rough Dendritic Cell Immune Classifier</title>
+      <link>/publication/2013_01_02_10.1007_978_3_642_387/</link>
+      <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2013_01_02_10.1007_978_3_642_387/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supporting Fuzzy-Rough Sets in the Dendritic Cell Algorithm Data Pre-processing Phase</title>
+      <link>/publication/2013_01_02_10.1007_978_3_642_420/</link>
+      <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2013_01_02_10.1007_978_3_642_420/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RC-DCA: A New Feature Selection and Signal Categorization Technique for the Dendritic Cell Algorithm Based on Rough Set Theory</title>
+      <link>/publication/2012_01_02_10.1007_978_3_642_337/</link>
+      <pubDate>Mon, 02 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2012_01_02_10.1007_978_3_642_337/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RST-DCA: A Dendritic Cell Algorithm Based on Rough Set Theory</title>
+      <link>/publication/2012_01_02_10.1007_978_3_642_344/</link>
+      <pubDate>Mon, 02 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2012_01_02_10.1007_978_3_642_344/</guid>
       <description></description>
     </item>
     
@@ -96,11 +323,56 @@
     </item>
     
     <item>
+      <title>A Mutation-Selection Algorithm for the Problem of Minimum Brauer Chains</title>
+      <link>/publication_old/2011_01_02_http___dx.doi.org_10./</link>
+      <pubDate>Sun, 02 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/publication_old/2011_01_02_http___dx.doi.org_10./</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Simulated Annealing Algorithm for the Problem of Minimal Addition Chains</title>
       <link>/publication/2011_01_02_10.1007_978_3_642_247/</link>
       <pubDate>Sun, 02 Jan 2011 00:00:00 +0000</pubDate>
       
       <guid>/publication/2011_01_02_10.1007_978_3_642_247/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Simulated Annealing Algorithm for the Problem of Minimal Addition Chains</title>
+      <link>/publication_old/2011_01_02_10.1007_978_3_642_247/</link>
+      <pubDate>Sun, 02 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/publication_old/2011_01_02_10.1007_978_3_642_247/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Further Exploration of the Fuzzy Dendritic Cell Method</title>
+      <link>/publication/2011_01_02_10.1007_978_3_642_223/</link>
+      <pubDate>Sun, 02 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2011_01_02_10.1007_978_3_642_223/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FDCM: A Fuzzy Dendritic Cell Method</title>
+      <link>/publication/2010_01_02_10.1007_978_3_642_145/</link>
+      <pubDate>Sat, 02 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2010_01_02_10.1007_978_3_642_145/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of Felder-Silverman Learning Styles with a Supervised Neural Network</title>
+      <link>/publication/2010_01_02_http___dx.doi.org_10./</link>
+      <pubDate>Sat, 02 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2010_01_02_http___dx.doi.org_10./</guid>
       <description></description>
     </item>
     

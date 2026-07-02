@@ -7,10 +7,79 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Thu, 09 Oct 2025 09:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/kilian/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AI in Health Symposium with KULeuven, UCLouvain and ULille</title>
+      <link>/talk/ai_seminar_kuleuven/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/ai_seminar_kuleuven/</guid>
+      <description>&lt;p&gt;The AI in Health Symposium took place in Lille on June 16th. Reuniting the rectors of the three universities: Regis Bordet from Lille, Severine Vermeire from Leuven, and Françoise Smets from Louvain, this symposium exposed the recent innovations and emerging challenges of AI usage in healthcare.&lt;/p&gt;
+&lt;p&gt;In this context, Pr. Vincent Sobanski held a talk on the importance of AI in precision medicine. As it can be seen in Systemic Sclerosis, a rare and heterogeneous chronic disease, AI can be of great use to predict patients prognosis or to unravel hidden subgroup of homogeneous patients, improving their care and treatment acuracy.&lt;/p&gt;
+&lt;p&gt;Clément Chauvet, a PhD Student in the Endomic team, presented his thesis project on the prediction of antinuclear antibodies patterns using deep learning approaches. He showed his advances but also the challenges of this approach such as manipulating highly dimensional images or having a large panel of identifiable patterns, with some being close to each other.&lt;/p&gt;
+&lt;center&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;Symposium_IA_Sante-vincent.jpg&#34;/&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;Symposium_IA_Sante-clem.jpg&#34;/&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/center&gt;
+&lt;p&gt;Our collaborators in the ARCHIE chair: Pr. Celine Vens and Pr. Maarten De Vos also held each one a talk. Pr. Vens presented the different usage of AI: supervised, semi-supervised and unsupervised machine learning, for chronic diseases. And Pr. De Vos preseted different evolution pathways AI may follow in the comming years in healthcare.&lt;/p&gt;
+&lt;p&gt;During a poster session at the end of the symposium, Marie-Elise Martel, Julien Sottiaux, Clément Chauvet, and Kilian Debraux, PhD students of our team, had the opportunity to present their research on multiple topics related to AI in healthcare. Marie-Elise presented her contribution on the development of a novel unsupervised biclustering algorithm: HBic. Julien presented an application made conjointly with a Master student to enhance explainability in AI. Clément presented the results of his systematic review on collecting treatment data from medical notes using LLMs. Kilian presented the advancements of his systematic review on clustering longitudinal data in healthcare.&lt;/p&gt;
+&lt;p&gt;Finally, the symposium ended with the signature of the &lt;a href=&#34;https://nieuws.kuleuven.be/en/content/2026/ku-leuven-builds-cross-border-network-in-health-sciences&#34;&gt;Leuven Lille Louvain Health Alliance&lt;/a&gt;, a strong collaboration between universities and hospitals from the three cities, pooling their expertise to further strengthen research, education, and innovation in health sciences.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AI week: &#34;L&#39;IA avec Nous&#34;</title>
+      <link>/talk/semain_ia/</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/semain_ia/</guid>
+      <description>&lt;p&gt;The &amp;ldquo;L&amp;rsquo;IA avec Nous&amp;rdquo; summit was a week-long event that reunited important french AI actors to discuss on the usage of AI and how it can enable progress in different domains. The endomic team was particularly invested in the organization of the summit and participated in multiple event throughout the week.&lt;/p&gt;
+&lt;p&gt;Pr. Vincent Sobanski and Pr. Zaineb Garcia participated in the opening of the summit: a one day long meeting with many speakers, CEOs of technological companies, artists, scientists to discuss on the usage, challenges, future and drawbacks of AI in several domain such as health, banking, or industry.&lt;/p&gt;
+&lt;center&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;vincent_bfm.jpeg&#34;/&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;vincent_fr3.jpeg&#34;/&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/center&gt;
+&lt;p&gt;Clément Chauvet was invited to present his thesis in 3 minutes: a common exercise usually known as My Thesis in 180 seconds. In front of a panel of other researchers and AI engineers, he popularized the technical aspects, challenges and stakes of automatic image analysis of antinuclear antibodies.&lt;/p&gt;
+&lt;p&gt;On June 17th, the endomic team organized a seminar on AI in healthcare, reuniting multiple participants from several french universities and hospitals. The meeting covered diversified topics:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;AI use in urgency services&lt;/li&gt;
+&lt;li&gt;precise diagnosis&lt;/li&gt;
+&lt;li&gt;enhancement of patient care&lt;/li&gt;
+&lt;li&gt;AI skills training&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src=&#34;vincent_matin_IA.jpg&#34;/&gt;
+&lt;p&gt;At the end of the week, Pr. Garcia partcipated in a round table on the new technologies for research. This event was also part of the 150 years anniversary of the medical faculty of Lille. This was the opportunity to meet AI scientists, biological and medical scientists, and clinician to exange on what AI brings to their work and occupation.&lt;br&gt;
+&lt;img src=&#34;zaineb_table_rond.jpeg&#34;/&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Fête de la Science</title>
